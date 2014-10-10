@@ -1,0 +1,20 @@
+<?php
+$REX['MEDIA']['FILENAME']['img_1800.jpg']['file_id'] = '80';
+$REX['MEDIA']['FILENAME']['img_1800.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['img_1800.jpg']['category_id'] = '6';
+$REX['MEDIA']['FILENAME']['img_1800.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['img_1800.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['img_1800.jpg']['filename'] = 'img_1800.jpg';
+$REX['MEDIA']['FILENAME']['img_1800.jpg']['originalname'] = 'img_1800.jpg';
+$REX['MEDIA']['FILENAME']['img_1800.jpg']['filesize'] = '228755';
+$REX['MEDIA']['FILENAME']['img_1800.jpg']['width'] = '1000';
+$REX['MEDIA']['FILENAME']['img_1800.jpg']['height'] = '1500';
+$REX['MEDIA']['FILENAME']['img_1800.jpg']['title'] = 'CHRISTO OBERHAUSEN';
+$REX['MEDIA']['FILENAME']['img_1800.jpg']['createdate'] = '1384013020';
+$REX['MEDIA']['FILENAME']['img_1800.jpg']['updatedate'] = '1385324955';
+$REX['MEDIA']['FILENAME']['img_1800.jpg']['createuser'] = 'root';
+$REX['MEDIA']['FILENAME']['img_1800.jpg']['updateuser'] = 'snow';
+$REX['MEDIA']['FILENAME']['img_1800.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['img_1800.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['img_1800.jpg']['med_copyright'] = '';
+?>

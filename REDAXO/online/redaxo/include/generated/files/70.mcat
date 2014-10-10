@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][70]['id'] = '70';
+$REX['MEDIA']['CAT_ID'][70]['name'] = ' 13.05.03 NEUE NATIONALGALERIE - MIES VAN DER ROHE– BERLIN';
+$REX['MEDIA']['CAT_ID'][70]['re_id'] = '6';
+$REX['MEDIA']['CAT_ID'][70]['path'] = '|6|';
+$REX['MEDIA']['CAT_ID'][70]['createdate'] = '1388945235';
+$REX['MEDIA']['CAT_ID'][70]['updatedate'] = '1388945235';
+$REX['MEDIA']['CAT_ID'][70]['createuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][70]['updateuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][70]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][70]['revision'] = '0';
+?>

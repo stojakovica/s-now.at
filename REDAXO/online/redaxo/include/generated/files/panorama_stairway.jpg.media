@@ -1,0 +1,20 @@
+<?php
+$REX['MEDIA']['FILENAME']['panorama_stairway.jpg']['file_id'] = '89';
+$REX['MEDIA']['FILENAME']['panorama_stairway.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['panorama_stairway.jpg']['category_id'] = '6';
+$REX['MEDIA']['FILENAME']['panorama_stairway.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['panorama_stairway.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['panorama_stairway.jpg']['filename'] = 'panorama_stairway.jpg';
+$REX['MEDIA']['FILENAME']['panorama_stairway.jpg']['originalname'] = 'panorama_stairway.jpg';
+$REX['MEDIA']['FILENAME']['panorama_stairway.jpg']['filesize'] = '256189';
+$REX['MEDIA']['FILENAME']['panorama_stairway.jpg']['width'] = '1500';
+$REX['MEDIA']['FILENAME']['panorama_stairway.jpg']['height'] = '944';
+$REX['MEDIA']['FILENAME']['panorama_stairway.jpg']['title'] = 'HOTEL PERTISAU';
+$REX['MEDIA']['FILENAME']['panorama_stairway.jpg']['createdate'] = '1384013046';
+$REX['MEDIA']['FILENAME']['panorama_stairway.jpg']['updatedate'] = '1385302387';
+$REX['MEDIA']['FILENAME']['panorama_stairway.jpg']['createuser'] = 'root';
+$REX['MEDIA']['FILENAME']['panorama_stairway.jpg']['updateuser'] = 'snow';
+$REX['MEDIA']['FILENAME']['panorama_stairway.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['panorama_stairway.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['panorama_stairway.jpg']['med_copyright'] = '';
+?>

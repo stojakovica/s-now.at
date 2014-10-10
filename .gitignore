@@ -1,0 +1,17 @@
+REDAXO/files/
+!REDAXO/files/addons
+REDAXO/redaxo/include/master.inc.php
+REDAXO/redaxo/include/generated/
+REDAXO/.htaccess
+REDAXO/redaxo/include/addons/seo42/backup/
+REDAXO/lib/project/css/*.css
+REDAXO/.fastcgi
+
+REDAXO-NEW/files/
+!REDAXO-NEW/files/addons
+REDAXO-NEW/redaxo/include/master.inc.php
+REDAXO-NEW/redaxo/include/generated/
+REDAXO-NEW/.htaccess
+REDAXO-NEW/redaxo/include/addons/seo42/backup/
+REDAXO-NEW/lib/project/css/*.css
+REDAXO-NEW/.fastcgi

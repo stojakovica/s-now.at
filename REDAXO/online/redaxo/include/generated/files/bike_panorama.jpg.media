@@ -1,0 +1,20 @@
+<?php
+$REX['MEDIA']['FILENAME']['bike_panorama.jpg']['file_id'] = '753';
+$REX['MEDIA']['FILENAME']['bike_panorama.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['bike_panorama.jpg']['category_id'] = '45';
+$REX['MEDIA']['FILENAME']['bike_panorama.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['bike_panorama.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['bike_panorama.jpg']['filename'] = 'bike_panorama.jpg';
+$REX['MEDIA']['FILENAME']['bike_panorama.jpg']['originalname'] = 'bike_panorama.jpg';
+$REX['MEDIA']['FILENAME']['bike_panorama.jpg']['filesize'] = '374312';
+$REX['MEDIA']['FILENAME']['bike_panorama.jpg']['width'] = '1000';
+$REX['MEDIA']['FILENAME']['bike_panorama.jpg']['height'] = '536';
+$REX['MEDIA']['FILENAME']['bike_panorama.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['bike_panorama.jpg']['createdate'] = '1388941479';
+$REX['MEDIA']['FILENAME']['bike_panorama.jpg']['updatedate'] = '1388941479';
+$REX['MEDIA']['FILENAME']['bike_panorama.jpg']['createuser'] = 'root';
+$REX['MEDIA']['FILENAME']['bike_panorama.jpg']['updateuser'] = 'root';
+$REX['MEDIA']['FILENAME']['bike_panorama.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['bike_panorama.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['bike_panorama.jpg']['med_copyright'] = '';
+?>

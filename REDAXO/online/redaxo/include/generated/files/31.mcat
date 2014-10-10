@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][31]['id'] = '31';
+$REX['MEDIA']['CAT_ID'][31]['name'] = '12.05.12 BLACK LIQUID - SACHA GILLEN , MARINA WANNER';
+$REX['MEDIA']['CAT_ID'][31]['re_id'] = '9';
+$REX['MEDIA']['CAT_ID'][31]['path'] = '|9|';
+$REX['MEDIA']['CAT_ID'][31]['createdate'] = '1388939494';
+$REX['MEDIA']['CAT_ID'][31]['updatedate'] = '1388939494';
+$REX['MEDIA']['CAT_ID'][31]['createuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][31]['updateuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][31]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][31]['revision'] = '0';
+?>

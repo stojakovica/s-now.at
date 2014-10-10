@@ -1,0 +1,38 @@
+<?php
+$REX['ART'][64]['article_id'][0] = '64';
+$REX['ART'][64]['last_update_stamp'][0] = '1388940369';
+$REX['ART'][64]['clang'][0] = '0';
+$REX['ART'][64]['pid'][0] = '79';
+$REX['ART'][64]['re_id'][0] = '23';
+$REX['ART'][64]['name'][0] = '12.08.24 THE ONE - YANNICK BACK';
+$REX['ART'][64]['catname'][0] = 'Portrait';
+$REX['ART'][64]['catprior'][0] = '0';
+$REX['ART'][64]['attributes'][0] = '';
+$REX['ART'][64]['startpage'][0] = '0';
+$REX['ART'][64]['prior'][0] = '25';
+$REX['ART'][64]['path'][0] = '|20|23|';
+$REX['ART'][64]['status'][0] = '1';
+$REX['ART'][64]['createdate'][0] = '1388940309';
+$REX['ART'][64]['updatedate'][0] = '1388940368';
+$REX['ART'][64]['template_id'][0] = '1';
+$REX['ART'][64]['createuser'][0] = 'root';
+$REX['ART'][64]['updateuser'][0] = 'root';
+$REX['ART'][64]['revision'][0] = '0';
+$REX['ART'][64]['art_online_from'][0] = '';
+$REX['ART'][64]['art_online_to'][0] = '';
+$REX['ART'][64]['art_description'][0] = '';
+$REX['ART'][64]['art_keywords'][0] = '';
+$REX['ART'][64]['art_file'][0] = '';
+$REX['ART'][64]['art_teaser'][0] = '||';
+$REX['ART'][64]['art_type_id'][0] = 'Standard';
+$REX['ART'][64]['art_content_images'][0] = '';
+$REX['ART'][64]['art_gallerylist'][0] = 'img_1304-2.jpg,img_1280-2.jpg,img_1334-2_1.jpg';
+$REX['ART'][64]['art_gallerypreview'][0] = 'img_1315.jpg';
+$REX['ART'][64]['art_gallerypreviewtext'][0] = 'NAME: YANNICK BACK
+GEBURTSDATUM: 26.02.1988
+NATIONALITÄT: DE, LU
+WOHNSITZ: MONDERCANGE, LU / INNSBRUCK, AT
+SPORT: EISHOCKEY
+BERUFUNG: GEOGRAFIESTUDIUM UIBK INNSBRUCK
+';
+?>

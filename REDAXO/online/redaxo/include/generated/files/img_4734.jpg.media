@@ -1,0 +1,20 @@
+<?php
+$REX['MEDIA']['FILENAME']['img_4734.jpg']['file_id'] = '116';
+$REX['MEDIA']['FILENAME']['img_4734.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['img_4734.jpg']['category_id'] = '9';
+$REX['MEDIA']['FILENAME']['img_4734.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['img_4734.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['img_4734.jpg']['filename'] = 'img_4734.jpg';
+$REX['MEDIA']['FILENAME']['img_4734.jpg']['originalname'] = 'img_4734.jpg';
+$REX['MEDIA']['FILENAME']['img_4734.jpg']['filesize'] = '107361';
+$REX['MEDIA']['FILENAME']['img_4734.jpg']['width'] = '1500';
+$REX['MEDIA']['FILENAME']['img_4734.jpg']['height'] = '1000';
+$REX['MEDIA']['FILENAME']['img_4734.jpg']['title'] = 'MIRJAM HAGEN';
+$REX['MEDIA']['FILENAME']['img_4734.jpg']['createdate'] = '1384013241';
+$REX['MEDIA']['FILENAME']['img_4734.jpg']['updatedate'] = '1385301759';
+$REX['MEDIA']['FILENAME']['img_4734.jpg']['createuser'] = 'root';
+$REX['MEDIA']['FILENAME']['img_4734.jpg']['updateuser'] = 'snow';
+$REX['MEDIA']['FILENAME']['img_4734.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['img_4734.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['img_4734.jpg']['med_copyright'] = '';
+?>

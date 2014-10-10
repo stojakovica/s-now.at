@@ -1,0 +1,20 @@
+<?php
+$REX['MEDIA']['FILENAME']['bild_013______.jpg']['file_id'] = '100';
+$REX['MEDIA']['FILENAME']['bild_013______.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['bild_013______.jpg']['category_id'] = '8';
+$REX['MEDIA']['FILENAME']['bild_013______.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['bild_013______.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['bild_013______.jpg']['filename'] = 'bild_013______.jpg';
+$REX['MEDIA']['FILENAME']['bild_013______.jpg']['originalname'] = 'bild_013______.jpg';
+$REX['MEDIA']['FILENAME']['bild_013______.jpg']['filesize'] = '126786';
+$REX['MEDIA']['FILENAME']['bild_013______.jpg']['width'] = '1445';
+$REX['MEDIA']['FILENAME']['bild_013______.jpg']['height'] = '1000';
+$REX['MEDIA']['FILENAME']['bild_013______.jpg']['title'] = 'GAETANO CASTELLANA';
+$REX['MEDIA']['FILENAME']['bild_013______.jpg']['createdate'] = '1384013154';
+$REX['MEDIA']['FILENAME']['bild_013______.jpg']['updatedate'] = '1385302119';
+$REX['MEDIA']['FILENAME']['bild_013______.jpg']['createuser'] = 'root';
+$REX['MEDIA']['FILENAME']['bild_013______.jpg']['updateuser'] = 'snow';
+$REX['MEDIA']['FILENAME']['bild_013______.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['bild_013______.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['bild_013______.jpg']['med_copyright'] = '';
+?>

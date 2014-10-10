@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][81]['id'] = '81';
+$REX['MEDIA']['CAT_ID'][81]['name'] = ' 12.07.31 BADEHAUS – BREGENZ';
+$REX['MEDIA']['CAT_ID'][81]['re_id'] = '7';
+$REX['MEDIA']['CAT_ID'][81]['path'] = '|7|';
+$REX['MEDIA']['CAT_ID'][81]['createdate'] = '1388946319';
+$REX['MEDIA']['CAT_ID'][81]['updatedate'] = '1388946319';
+$REX['MEDIA']['CAT_ID'][81]['createuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][81]['updateuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][81]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][81]['revision'] = '0';
+?>

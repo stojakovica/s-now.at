@@ -1,0 +1,20 @@
+<?php
+$REX['MEDIA']['FILENAME']['_group_3_-img_7559_img_7585-27_images-3.jpg']['file_id'] = '764';
+$REX['MEDIA']['FILENAME']['_group_3_-img_7559_img_7585-27_images-3.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['_group_3_-img_7559_img_7585-27_images-3.jpg']['category_id'] = '46';
+$REX['MEDIA']['FILENAME']['_group_3_-img_7559_img_7585-27_images-3.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['_group_3_-img_7559_img_7585-27_images-3.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['_group_3_-img_7559_img_7585-27_images-3.jpg']['filename'] = '_group_3_-img_7559_img_7585-27_images-3.jpg';
+$REX['MEDIA']['FILENAME']['_group_3_-img_7559_img_7585-27_images-3.jpg']['originalname'] = '_group_3_-img_7559_img_7585-27_images-3.jpg';
+$REX['MEDIA']['FILENAME']['_group_3_-img_7559_img_7585-27_images-3.jpg']['filesize'] = '258751';
+$REX['MEDIA']['FILENAME']['_group_3_-img_7559_img_7585-27_images-3.jpg']['width'] = '1000';
+$REX['MEDIA']['FILENAME']['_group_3_-img_7559_img_7585-27_images-3.jpg']['height'] = '425';
+$REX['MEDIA']['FILENAME']['_group_3_-img_7559_img_7585-27_images-3.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['_group_3_-img_7559_img_7585-27_images-3.jpg']['createdate'] = '1388941756';
+$REX['MEDIA']['FILENAME']['_group_3_-img_7559_img_7585-27_images-3.jpg']['updatedate'] = '1388941756';
+$REX['MEDIA']['FILENAME']['_group_3_-img_7559_img_7585-27_images-3.jpg']['createuser'] = 'root';
+$REX['MEDIA']['FILENAME']['_group_3_-img_7559_img_7585-27_images-3.jpg']['updateuser'] = 'root';
+$REX['MEDIA']['FILENAME']['_group_3_-img_7559_img_7585-27_images-3.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['_group_3_-img_7559_img_7585-27_images-3.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['_group_3_-img_7559_img_7585-27_images-3.jpg']['med_copyright'] = '';
+?>

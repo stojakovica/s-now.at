@@ -1,0 +1,20 @@
+<?php
+$REX['MEDIA']['FILENAME']['img_2209.jpg']['file_id'] = '90';
+$REX['MEDIA']['FILENAME']['img_2209.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['img_2209.jpg']['category_id'] = '6';
+$REX['MEDIA']['FILENAME']['img_2209.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['img_2209.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['img_2209.jpg']['filename'] = 'img_2209.jpg';
+$REX['MEDIA']['FILENAME']['img_2209.jpg']['originalname'] = 'img_2209.jpg';
+$REX['MEDIA']['FILENAME']['img_2209.jpg']['filesize'] = '352260';
+$REX['MEDIA']['FILENAME']['img_2209.jpg']['width'] = '1500';
+$REX['MEDIA']['FILENAME']['img_2209.jpg']['height'] = '1000';
+$REX['MEDIA']['FILENAME']['img_2209.jpg']['title'] = 'PHILHARMONIE BERLIN';
+$REX['MEDIA']['FILENAME']['img_2209.jpg']['createdate'] = '1384013047';
+$REX['MEDIA']['FILENAME']['img_2209.jpg']['updatedate'] = '1385302370';
+$REX['MEDIA']['FILENAME']['img_2209.jpg']['createuser'] = 'root';
+$REX['MEDIA']['FILENAME']['img_2209.jpg']['updateuser'] = 'snow';
+$REX['MEDIA']['FILENAME']['img_2209.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['img_2209.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['img_2209.jpg']['med_copyright'] = '';
+?>

@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][12]['id'] = '12';
+$REX['MEDIA']['CAT_ID'][12]['name'] = 'cube aria outdoor';
+$REX['MEDIA']['CAT_ID'][12]['re_id'] = '0';
+$REX['MEDIA']['CAT_ID'][12]['path'] = '|';
+$REX['MEDIA']['CAT_ID'][12]['createdate'] = '1385412363';
+$REX['MEDIA']['CAT_ID'][12]['updatedate'] = '1385412363';
+$REX['MEDIA']['CAT_ID'][12]['createuser'] = 'snow';
+$REX['MEDIA']['CAT_ID'][12]['updateuser'] = 'snow';
+$REX['MEDIA']['CAT_ID'][12]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][12]['revision'] = '0';
+?>

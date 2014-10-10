@@ -1,0 +1,32 @@
+<?php
+$REX['ART'][57]['article_id'][0] = '57';
+$REX['ART'][57]['last_update_stamp'][0] = '1388939553';
+$REX['ART'][57]['clang'][0] = '0';
+$REX['ART'][57]['pid'][0] = '72';
+$REX['ART'][57]['re_id'][0] = '23';
+$REX['ART'][57]['name'][0] = '12.05.12 BLACK LIQUID - SACHA GILLEN , MARINA WANNER';
+$REX['ART'][57]['catname'][0] = 'Portrait';
+$REX['ART'][57]['catprior'][0] = '0';
+$REX['ART'][57]['attributes'][0] = '';
+$REX['ART'][57]['startpage'][0] = '0';
+$REX['ART'][57]['prior'][0] = '18';
+$REX['ART'][57]['path'][0] = '|20|23|';
+$REX['ART'][57]['status'][0] = '1';
+$REX['ART'][57]['createdate'][0] = '1388939471';
+$REX['ART'][57]['updatedate'][0] = '1388939552';
+$REX['ART'][57]['template_id'][0] = '1';
+$REX['ART'][57]['createuser'][0] = 'root';
+$REX['ART'][57]['updateuser'][0] = 'root';
+$REX['ART'][57]['revision'][0] = '0';
+$REX['ART'][57]['art_online_from'][0] = '';
+$REX['ART'][57]['art_online_to'][0] = '';
+$REX['ART'][57]['art_description'][0] = '';
+$REX['ART'][57]['art_keywords'][0] = '';
+$REX['ART'][57]['art_file'][0] = '';
+$REX['ART'][57]['art_teaser'][0] = '||';
+$REX['ART'][57]['art_type_id'][0] = 'Standard';
+$REX['ART'][57]['art_content_images'][0] = '';
+$REX['ART'][57]['art_gallerylist'][0] = 'img_4825.jpg,img_4709.jpg,img_4725.jpg,img_4716-3.jpg,img_4691_1.jpg';
+$REX['ART'][57]['art_gallerypreview'][0] = 'img_4635_2.jpg';
+$REX['ART'][57]['art_gallerypreviewtext'][0] = '';
+?>

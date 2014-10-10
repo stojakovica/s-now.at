@@ -1,0 +1,20 @@
+<?php
+$REX['MEDIA']['FILENAME']['img_1464.jpg']['file_id'] = '82';
+$REX['MEDIA']['FILENAME']['img_1464.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['img_1464.jpg']['category_id'] = '6';
+$REX['MEDIA']['FILENAME']['img_1464.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['img_1464.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['img_1464.jpg']['filename'] = 'img_1464.jpg';
+$REX['MEDIA']['FILENAME']['img_1464.jpg']['originalname'] = 'img_1464.jpg';
+$REX['MEDIA']['FILENAME']['img_1464.jpg']['filesize'] = '173074';
+$REX['MEDIA']['FILENAME']['img_1464.jpg']['width'] = '1500';
+$REX['MEDIA']['FILENAME']['img_1464.jpg']['height'] = '971';
+$REX['MEDIA']['FILENAME']['img_1464.jpg']['title'] = 'MERCEDES BENZ MUSEUM STUTTGART';
+$REX['MEDIA']['FILENAME']['img_1464.jpg']['createdate'] = '1384013021';
+$REX['MEDIA']['FILENAME']['img_1464.jpg']['updatedate'] = '1385324937';
+$REX['MEDIA']['FILENAME']['img_1464.jpg']['createuser'] = 'root';
+$REX['MEDIA']['FILENAME']['img_1464.jpg']['updateuser'] = 'snow';
+$REX['MEDIA']['FILENAME']['img_1464.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['img_1464.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['img_1464.jpg']['med_copyright'] = '';
+?>

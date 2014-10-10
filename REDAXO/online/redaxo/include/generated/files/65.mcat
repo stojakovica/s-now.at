@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][65]['id'] = '65';
+$REX['MEDIA']['CAT_ID'][65]['name'] = ' 13.05.01 NEUER ZOLLHOF - FRANK GEHRY – DÜSSELDORF';
+$REX['MEDIA']['CAT_ID'][65]['re_id'] = '6';
+$REX['MEDIA']['CAT_ID'][65]['path'] = '|6|';
+$REX['MEDIA']['CAT_ID'][65]['createdate'] = '1388944769';
+$REX['MEDIA']['CAT_ID'][65]['updatedate'] = '1388944769';
+$REX['MEDIA']['CAT_ID'][65]['createuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][65]['updateuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][65]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][65]['revision'] = '0';
+?>

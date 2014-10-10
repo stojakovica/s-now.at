@@ -1,0 +1,20 @@
+<?php
+$REX['MEDIA']['FILENAME']['spirit.jpg']['file_id'] = '109';
+$REX['MEDIA']['FILENAME']['spirit.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['spirit.jpg']['category_id'] = '8';
+$REX['MEDIA']['FILENAME']['spirit.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['spirit.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['spirit.jpg']['filename'] = 'spirit.jpg';
+$REX['MEDIA']['FILENAME']['spirit.jpg']['originalname'] = 'spirit.jpg';
+$REX['MEDIA']['FILENAME']['spirit.jpg']['filesize'] = '148719';
+$REX['MEDIA']['FILENAME']['spirit.jpg']['width'] = '667';
+$REX['MEDIA']['FILENAME']['spirit.jpg']['height'] = '1000';
+$REX['MEDIA']['FILENAME']['spirit.jpg']['title'] = 'ALEKSANDAR STOJAKOVIC';
+$REX['MEDIA']['FILENAME']['spirit.jpg']['createdate'] = '1384013182';
+$REX['MEDIA']['FILENAME']['spirit.jpg']['updatedate'] = '1385302018';
+$REX['MEDIA']['FILENAME']['spirit.jpg']['createuser'] = 'root';
+$REX['MEDIA']['FILENAME']['spirit.jpg']['updateuser'] = 'snow';
+$REX['MEDIA']['FILENAME']['spirit.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['spirit.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['spirit.jpg']['med_copyright'] = '';
+?>

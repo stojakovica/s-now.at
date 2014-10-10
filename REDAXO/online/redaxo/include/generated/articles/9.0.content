@@ -1,0 +1,53 @@
+?><?php if ($this->ctype == '1' || ($this->ctype == '-1')) { ?><?php
+
+if(OOAddon::isAvailable('textile'))
+{
+  // Fliesstext 
+  $textile = '';
+  if(true)
+  {
+    $textile = htmlspecialchars_decode("h1. Impressum<br />
+<br />
+*TECH. ZEICHENBÜRO    -     DESIGN    -     WERBEAGENTUR*<br />
+Thomas KRÄMER<br />
+Fürstenweg 38<br />
+6020 Innsbruck<br />
+Österreich<br />
+ <br />
+*TECH. ZEICHENBÜRO    -     PRESSEFOTOGRAFIE &amp; FOTODESIGN*<br />
+Aria SADR-SALEK                          <br />
+Karl-Schönherr-Strasse 9             <br />
+6020 Innsbruck                            <br />
+Österreich  <br />
+ <br />
+*TECH. ZEICHENBÜRO    -     WERBEGRAPHIK DESIGNER*<br />
+Sacha GILLEN<br />
+Karl-Schönherr-Strasse 7<br />
+6020 Innsbruck<br />
+Österreich<br />
+<br />
+h2. Allgemeine Geschäftsbedingungen für die Nutzung dieser Website<br />
+<br />
+Im Folgenden finden Sie die Allgemeinen Geschäftsbedingungen für die Nutzung der offiziellen Website von sNOW. Wenn Sie unsere Website weiterhin nutzen wollen, haben Sie folgenden Punkten ausdrücklich zugestimmt und/oder sie zumindest zur Kenntnis genommen.<br />
+ <br />
+1.<br />
+Diese Website ist das Eigentum von sNOW. Abschnitte der Website, Markenzeichen, Inhalte, Logos oder Grafiken dürfen nicht kopiert, weitergeleitet oder ohne ausdrückliche Erlaubnis von sNOW genutzt werden. <br />
+Alle Anfragen zur Nutzung oder Kopie von Informationen, Markenzeichen, Logos und Bildern, die auf der Website www.s-now.at veröffentlicht sind, müssen an sNOW gerichtet werden.<br />
+ <br />
+2. <br />
+Der Gewerbeberechtigungswortlaut von Zeichenbüros lautet üblicherweise: &quot;Anfertigen von technischen Zeichnungen nach vollständig vorgegebenen Angaben des Auftraggebers, unter Ausschluss aller den Baumeistern und Technischen Büros vorbehaltenen Tätigkeiten.&quot;   <br />
+Alle auf dieser Seite dargestellten Architektur Entwürfe sind in Zusammenarbeit mit befugten Personen (Architekturbüros, Ingenieurbüros, Baumeister, Holzbauunternehmen) entstanden. ");
+    $textile = str_replace("<br />","",$textile);
+    $textile = rex_a79_textile($textile);
+    $textile = str_replace("###","&#x20;",$textile);
+?>
+    <div class="contentBlock <?php if (''!='') echo 'bgcontainer'; ?>"><?php echo $textile; ?></div>
+<?php
+  } 
+}
+else
+{
+  echo rex_warning('Dieses Modul benÃ¶tigt das "textile" Addon!');
+}
+
+?><?php } ?>

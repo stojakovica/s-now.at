@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][66]['id'] = '66';
+$REX['MEDIA']['CAT_ID'][66]['name'] = '13.05.01 WALLFAHRTSKIRCHE - GOTTFRIED BÖHM - VELBERT';
+$REX['MEDIA']['CAT_ID'][66]['re_id'] = '6';
+$REX['MEDIA']['CAT_ID'][66]['path'] = '|6|';
+$REX['MEDIA']['CAT_ID'][66]['createdate'] = '1388944951';
+$REX['MEDIA']['CAT_ID'][66]['updatedate'] = '1388944951';
+$REX['MEDIA']['CAT_ID'][66]['createuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][66]['updateuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][66]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][66]['revision'] = '0';
+?>

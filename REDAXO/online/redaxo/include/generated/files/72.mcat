@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][72]['id'] = '72';
+$REX['MEDIA']['CAT_ID'][72]['name'] = '13.05.04 HOTEL SPEICHER BARTH – VOLKER GIENKE - BARTH';
+$REX['MEDIA']['CAT_ID'][72]['re_id'] = '6';
+$REX['MEDIA']['CAT_ID'][72]['path'] = '|6|';
+$REX['MEDIA']['CAT_ID'][72]['createdate'] = '1388945399';
+$REX['MEDIA']['CAT_ID'][72]['updatedate'] = '1388945399';
+$REX['MEDIA']['CAT_ID'][72]['createuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][72]['updateuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][72]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][72]['revision'] = '0';
+?>

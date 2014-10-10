@@ -1,0 +1,20 @@
+<?php
+$REX['MEDIA']['FILENAME']['img_8170.jpg']['file_id'] = '105';
+$REX['MEDIA']['FILENAME']['img_8170.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['img_8170.jpg']['category_id'] = '8';
+$REX['MEDIA']['FILENAME']['img_8170.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['img_8170.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['img_8170.jpg']['filename'] = 'img_8170.jpg';
+$REX['MEDIA']['FILENAME']['img_8170.jpg']['originalname'] = 'img_8170.jpg';
+$REX['MEDIA']['FILENAME']['img_8170.jpg']['filesize'] = '165132';
+$REX['MEDIA']['FILENAME']['img_8170.jpg']['width'] = '667';
+$REX['MEDIA']['FILENAME']['img_8170.jpg']['height'] = '1000';
+$REX['MEDIA']['FILENAME']['img_8170.jpg']['title'] = 'ANOUSH SADR-SALEK';
+$REX['MEDIA']['FILENAME']['img_8170.jpg']['createdate'] = '1384013175';
+$REX['MEDIA']['FILENAME']['img_8170.jpg']['updatedate'] = '1385302066';
+$REX['MEDIA']['FILENAME']['img_8170.jpg']['createuser'] = 'root';
+$REX['MEDIA']['FILENAME']['img_8170.jpg']['updateuser'] = 'snow';
+$REX['MEDIA']['FILENAME']['img_8170.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['img_8170.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['img_8170.jpg']['med_copyright'] = '';
+?>

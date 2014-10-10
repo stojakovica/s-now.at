@@ -1,0 +1,20 @@
+<?php
+$REX['MEDIA']['FILENAME']['img_8468_2.jpg']['file_id'] = '816';
+$REX['MEDIA']['FILENAME']['img_8468_2.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['img_8468_2.jpg']['category_id'] = '55';
+$REX['MEDIA']['FILENAME']['img_8468_2.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['img_8468_2.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['img_8468_2.jpg']['filename'] = 'img_8468_2.jpg';
+$REX['MEDIA']['FILENAME']['img_8468_2.jpg']['originalname'] = 'img_8468_2.jpg';
+$REX['MEDIA']['FILENAME']['img_8468_2.jpg']['filesize'] = '189505';
+$REX['MEDIA']['FILENAME']['img_8468_2.jpg']['width'] = '633';
+$REX['MEDIA']['FILENAME']['img_8468_2.jpg']['height'] = '1000';
+$REX['MEDIA']['FILENAME']['img_8468_2.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['img_8468_2.jpg']['createdate'] = '1388943522';
+$REX['MEDIA']['FILENAME']['img_8468_2.jpg']['updatedate'] = '1388943522';
+$REX['MEDIA']['FILENAME']['img_8468_2.jpg']['createuser'] = 'root';
+$REX['MEDIA']['FILENAME']['img_8468_2.jpg']['updateuser'] = 'root';
+$REX['MEDIA']['FILENAME']['img_8468_2.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['img_8468_2.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['img_8468_2.jpg']['med_copyright'] = '';
+?>

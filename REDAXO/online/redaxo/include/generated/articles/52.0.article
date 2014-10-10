@@ -1,0 +1,37 @@
+<?php
+$REX['ART'][52]['article_id'][0] = '52';
+$REX['ART'][52]['last_update_stamp'][0] = '1388939027';
+$REX['ART'][52]['clang'][0] = '0';
+$REX['ART'][52]['pid'][0] = '67';
+$REX['ART'][52]['re_id'][0] = '23';
+$REX['ART'][52]['name'][0] = '12.02.10 LUNGS - SACHA GILLEN';
+$REX['ART'][52]['catname'][0] = 'Portrait';
+$REX['ART'][52]['catprior'][0] = '0';
+$REX['ART'][52]['attributes'][0] = '';
+$REX['ART'][52]['startpage'][0] = '0';
+$REX['ART'][52]['prior'][0] = '13';
+$REX['ART'][52]['path'][0] = '|20|23|';
+$REX['ART'][52]['status'][0] = '1';
+$REX['ART'][52]['createdate'][0] = '1388938920';
+$REX['ART'][52]['updatedate'][0] = '1388939026';
+$REX['ART'][52]['template_id'][0] = '1';
+$REX['ART'][52]['createuser'][0] = 'root';
+$REX['ART'][52]['updateuser'][0] = 'root';
+$REX['ART'][52]['revision'][0] = '0';
+$REX['ART'][52]['art_online_from'][0] = '';
+$REX['ART'][52]['art_online_to'][0] = '';
+$REX['ART'][52]['art_description'][0] = '';
+$REX['ART'][52]['art_keywords'][0] = '';
+$REX['ART'][52]['art_file'][0] = '';
+$REX['ART'][52]['art_teaser'][0] = '||';
+$REX['ART'][52]['art_type_id'][0] = 'Standard';
+$REX['ART'][52]['art_content_images'][0] = '';
+$REX['ART'][52]['art_gallerylist'][0] = 'img_2431-4_1.jpg,img_2405-2.jpg,img_2304.jpg,img_2448-2.jpg';
+$REX['ART'][52]['art_gallerypreview'][0] = 'img_3382_3.jpg';
+$REX['ART'][52]['art_gallerypreviewtext'][0] = 'NAME: SACHA GILLEN
+GEBURTSDATUM: 18.03.1988
+NATIONALITÄT: LU
+WOHNSITZ: BASCHARAGE, LU / INNSBRUCK, AT
+SPORT: 
+BERUFUNG: ARCHITEKTURSTUDIUM UIBK INNSBRUCK';
+?>

@@ -1,0 +1,30 @@
+?><?php if ($this->ctype == '1' || ($this->ctype == '-1')) { ?><?php
+
+if(OOAddon::isAvailable('textile'))
+{
+  // Fliesstext 
+  $textile = '';
+  if(true)
+  {
+    $textile = htmlspecialchars_decode("h1. Contact<br />
+<br />
+sNOW - Visual Works. <br />
+Höttinger Auffahrt 5a<br />
+6020 Innsbruck<br />
+Österreich<br />
+&quot;info@s-now.at&quot;:mailto:info@s-now.at<br />
++43 664 3908584");
+    $textile = str_replace("<br />","",$textile);
+    $textile = rex_a79_textile($textile);
+    $textile = str_replace("###","&#x20;",$textile);
+?>
+    <div class="contentBlock <?php if (''!='') echo 'bgcontainer'; ?>"><?php echo $textile; ?></div>
+<?php
+  } 
+}
+else
+{
+  echo rex_warning('Dieses Modul benÃ¶tigt das "textile" Addon!');
+}
+
+?><iframe width='900' height='500' frameBorder='0' src='http://a.tiles.mapbox.com/v3/dude88.map-qeyqtj4b.html#15/47.26302408686587/11.38657808303833'></iframe><?php } ?>

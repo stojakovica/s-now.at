@@ -1,0 +1,20 @@
+<?php
+$REX['MEDIA']['FILENAME']['_group_14_-img_6369_img_6380-12_images.jpg']['file_id'] = '93';
+$REX['MEDIA']['FILENAME']['_group_14_-img_6369_img_6380-12_images.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['_group_14_-img_6369_img_6380-12_images.jpg']['category_id'] = '7';
+$REX['MEDIA']['FILENAME']['_group_14_-img_6369_img_6380-12_images.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['_group_14_-img_6369_img_6380-12_images.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['_group_14_-img_6369_img_6380-12_images.jpg']['filename'] = '_group_14_-img_6369_img_6380-12_images.jpg';
+$REX['MEDIA']['FILENAME']['_group_14_-img_6369_img_6380-12_images.jpg']['originalname'] = '_group_14_-img_6369_img_6380-12_images.jpg';
+$REX['MEDIA']['FILENAME']['_group_14_-img_6369_img_6380-12_images.jpg']['filesize'] = '145075';
+$REX['MEDIA']['FILENAME']['_group_14_-img_6369_img_6380-12_images.jpg']['width'] = '1500';
+$REX['MEDIA']['FILENAME']['_group_14_-img_6369_img_6380-12_images.jpg']['height'] = '583';
+$REX['MEDIA']['FILENAME']['_group_14_-img_6369_img_6380-12_images.jpg']['title'] = 'SEEGRUBE INNSBRUCK';
+$REX['MEDIA']['FILENAME']['_group_14_-img_6369_img_6380-12_images.jpg']['createdate'] = '1384013086';
+$REX['MEDIA']['FILENAME']['_group_14_-img_6369_img_6380-12_images.jpg']['updatedate'] = '1385302295';
+$REX['MEDIA']['FILENAME']['_group_14_-img_6369_img_6380-12_images.jpg']['createuser'] = 'root';
+$REX['MEDIA']['FILENAME']['_group_14_-img_6369_img_6380-12_images.jpg']['updateuser'] = 'snow';
+$REX['MEDIA']['FILENAME']['_group_14_-img_6369_img_6380-12_images.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['_group_14_-img_6369_img_6380-12_images.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['_group_14_-img_6369_img_6380-12_images.jpg']['med_copyright'] = '';
+?>

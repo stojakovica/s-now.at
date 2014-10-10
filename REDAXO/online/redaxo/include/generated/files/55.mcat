@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][55]['id'] = '55';
+$REX['MEDIA']['CAT_ID'][55]['name'] = '12.07.07 FREERUNING - FREYLINGER LUCIEN - LUXEMBURG';
+$REX['MEDIA']['CAT_ID'][55]['re_id'] = '8';
+$REX['MEDIA']['CAT_ID'][55]['path'] = '|8|';
+$REX['MEDIA']['CAT_ID'][55]['createdate'] = '1388943457';
+$REX['MEDIA']['CAT_ID'][55]['updatedate'] = '1388943457';
+$REX['MEDIA']['CAT_ID'][55]['createuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][55]['updateuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][55]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][55]['revision'] = '0';
+?>

@@ -1,0 +1,20 @@
+<?php
+$REX['MEDIA']['FILENAME']['panorama-seegrube_-_nordkette.jpg']['file_id'] = '728';
+$REX['MEDIA']['FILENAME']['panorama-seegrube_-_nordkette.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['panorama-seegrube_-_nordkette.jpg']['category_id'] = '43';
+$REX['MEDIA']['FILENAME']['panorama-seegrube_-_nordkette.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['panorama-seegrube_-_nordkette.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['panorama-seegrube_-_nordkette.jpg']['filename'] = 'panorama-seegrube_-_nordkette.jpg';
+$REX['MEDIA']['FILENAME']['panorama-seegrube_-_nordkette.jpg']['originalname'] = 'panorama-seegrube_-_nordkette.jpg';
+$REX['MEDIA']['FILENAME']['panorama-seegrube_-_nordkette.jpg']['filesize'] = '203794';
+$REX['MEDIA']['FILENAME']['panorama-seegrube_-_nordkette.jpg']['width'] = '1000';
+$REX['MEDIA']['FILENAME']['panorama-seegrube_-_nordkette.jpg']['height'] = '470';
+$REX['MEDIA']['FILENAME']['panorama-seegrube_-_nordkette.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['panorama-seegrube_-_nordkette.jpg']['createdate'] = '1388941149';
+$REX['MEDIA']['FILENAME']['panorama-seegrube_-_nordkette.jpg']['updatedate'] = '1388941149';
+$REX['MEDIA']['FILENAME']['panorama-seegrube_-_nordkette.jpg']['createuser'] = 'root';
+$REX['MEDIA']['FILENAME']['panorama-seegrube_-_nordkette.jpg']['updateuser'] = 'root';
+$REX['MEDIA']['FILENAME']['panorama-seegrube_-_nordkette.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['panorama-seegrube_-_nordkette.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['panorama-seegrube_-_nordkette.jpg']['med_copyright'] = '';
+?>

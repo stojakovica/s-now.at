@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][64]['id'] = '64';
+$REX['MEDIA']['CAT_ID'][64]['name'] = ' 13.05.01 BIG AIR PACKAGE - CHRISTO – OBERHAUSEN';
+$REX['MEDIA']['CAT_ID'][64]['re_id'] = '6';
+$REX['MEDIA']['CAT_ID'][64]['path'] = '|6|';
+$REX['MEDIA']['CAT_ID'][64]['createdate'] = '1388944670';
+$REX['MEDIA']['CAT_ID'][64]['updatedate'] = '1388944670';
+$REX['MEDIA']['CAT_ID'][64]['createuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][64]['updateuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][64]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][64]['revision'] = '0';
+?>

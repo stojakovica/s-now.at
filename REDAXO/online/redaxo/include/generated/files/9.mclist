@@ -1,0 +1,26 @@
+<?php
+$REX['MEDIA']['RE_CAT_ID'][9][0] = '15';
+$REX['MEDIA']['RE_CAT_ID'][9][1] = '19';
+$REX['MEDIA']['RE_CAT_ID'][9][2] = '16';
+$REX['MEDIA']['RE_CAT_ID'][9][3] = '17';
+$REX['MEDIA']['RE_CAT_ID'][9][4] = '18';
+$REX['MEDIA']['RE_CAT_ID'][9][5] = '20';
+$REX['MEDIA']['RE_CAT_ID'][9][6] = '21';
+$REX['MEDIA']['RE_CAT_ID'][9][7] = '22';
+$REX['MEDIA']['RE_CAT_ID'][9][8] = '24';
+$REX['MEDIA']['RE_CAT_ID'][9][9] = '29';
+$REX['MEDIA']['RE_CAT_ID'][9][10] = '40';
+$REX['MEDIA']['RE_CAT_ID'][9][11] = '23';
+$REX['MEDIA']['RE_CAT_ID'][9][12] = '26';
+$REX['MEDIA']['RE_CAT_ID'][9][13] = '27';
+$REX['MEDIA']['RE_CAT_ID'][9][14] = '28';
+$REX['MEDIA']['RE_CAT_ID'][9][15] = '30';
+$REX['MEDIA']['RE_CAT_ID'][9][16] = '31';
+$REX['MEDIA']['RE_CAT_ID'][9][17] = '33';
+$REX['MEDIA']['RE_CAT_ID'][9][18] = '34';
+$REX['MEDIA']['RE_CAT_ID'][9][19] = '35';
+$REX['MEDIA']['RE_CAT_ID'][9][20] = '36';
+$REX['MEDIA']['RE_CAT_ID'][9][21] = '37';
+$REX['MEDIA']['RE_CAT_ID'][9][22] = '38';
+$REX['MEDIA']['RE_CAT_ID'][9][23] = '39';
+?>

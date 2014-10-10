@@ -1,0 +1,38 @@
+<?php
+$REX['ART'][90]['article_id'][0] = '90';
+$REX['ART'][90]['last_update_stamp'][0] = '1388944730';
+$REX['ART'][90]['clang'][0] = '0';
+$REX['ART'][90]['pid'][0] = '105';
+$REX['ART'][90]['re_id'][0] = '26';
+$REX['ART'][90]['name'][0] = ' 13.05.01 BIG AIR PACKAGE - CHRISTO – OBERHAUSEN';
+$REX['ART'][90]['catname'][0] = 'Architekturfotografie';
+$REX['ART'][90]['catprior'][0] = '0';
+$REX['ART'][90]['attributes'][0] = '';
+$REX['ART'][90]['startpage'][0] = '0';
+$REX['ART'][90]['prior'][0] = '7';
+$REX['ART'][90]['path'][0] = '|20|26|';
+$REX['ART'][90]['status'][0] = '1';
+$REX['ART'][90]['createdate'][0] = '1388944655';
+$REX['ART'][90]['updatedate'][0] = '1388944728';
+$REX['ART'][90]['template_id'][0] = '1';
+$REX['ART'][90]['createuser'][0] = 'root';
+$REX['ART'][90]['updateuser'][0] = 'root';
+$REX['ART'][90]['revision'][0] = '0';
+$REX['ART'][90]['art_online_from'][0] = '';
+$REX['ART'][90]['art_online_to'][0] = '';
+$REX['ART'][90]['art_description'][0] = '';
+$REX['ART'][90]['art_keywords'][0] = '';
+$REX['ART'][90]['art_file'][0] = '';
+$REX['ART'][90]['art_teaser'][0] = '||';
+$REX['ART'][90]['art_type_id'][0] = 'Standard';
+$REX['ART'][90]['art_content_images'][0] = '';
+$REX['ART'][90]['art_gallerylist'][0] = 'img_1800_1.jpg,img_1801.jpg,img_1799.jpg,img_1836_2.jpg,img_1835.jpg';
+$REX['ART'][90]['art_gallerypreview'][0] = '';
+$REX['ART'][90]['art_gallerypreviewtext'][0] = 'STAAT: DEUTSCHLAND
+BUNDESLAND: NORDRHEIN-WESTFALEN
+ADRESSE: ARENASTR 11, 46047 OBERHAUSEN
+ARCHITEKTUR: CHRISTO
+BAUHERRSCHAFT: /
+PLANUNG: /
+AUSFÜHRUNG: 2013';
+?>

@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][63]['id'] = '63';
+$REX['MEDIA']['CAT_ID'][63]['name'] = ' 13.04.30 UN STUDIO - MERCEDES BENZ MUSEUM – STUTTGART';
+$REX['MEDIA']['CAT_ID'][63]['re_id'] = '6';
+$REX['MEDIA']['CAT_ID'][63]['path'] = '|6|';
+$REX['MEDIA']['CAT_ID'][63]['createdate'] = '1388944565';
+$REX['MEDIA']['CAT_ID'][63]['updatedate'] = '1388944565';
+$REX['MEDIA']['CAT_ID'][63]['createuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][63]['updateuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][63]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][63]['revision'] = '0';
+?>

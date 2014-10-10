@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][73]['id'] = '73';
+$REX['MEDIA']['CAT_ID'][73]['name'] = '13.05.04 OZEANEUM – BEHNISCH - OSTSEE';
+$REX['MEDIA']['CAT_ID'][73]['re_id'] = '6';
+$REX['MEDIA']['CAT_ID'][73]['path'] = '|6|';
+$REX['MEDIA']['CAT_ID'][73]['createdate'] = '1388945472';
+$REX['MEDIA']['CAT_ID'][73]['updatedate'] = '1388945472';
+$REX['MEDIA']['CAT_ID'][73]['createuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][73]['updateuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][73]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][73]['revision'] = '0';
+?>

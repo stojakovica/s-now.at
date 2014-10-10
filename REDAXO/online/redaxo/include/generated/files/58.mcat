@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][58]['id'] = '58';
+$REX['MEDIA']['CAT_ID'][58]['name'] = '13.08.03 BIKESESSION - ALEKSANDAR STOJAKOVIC';
+$REX['MEDIA']['CAT_ID'][58]['re_id'] = '8';
+$REX['MEDIA']['CAT_ID'][58]['path'] = '|8|';
+$REX['MEDIA']['CAT_ID'][58]['createdate'] = '1388944017';
+$REX['MEDIA']['CAT_ID'][58]['updatedate'] = '1388944017';
+$REX['MEDIA']['CAT_ID'][58]['createuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][58]['updateuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][58]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][58]['revision'] = '0';
+?>

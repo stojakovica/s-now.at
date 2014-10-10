@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][44]['id'] = '44';
+$REX['MEDIA']['CAT_ID'][44]['name'] = '11.02.05 BOULDERSESSION - RAPHAEL STROHMAIER – IGLS, AT';
+$REX['MEDIA']['CAT_ID'][44]['re_id'] = '8';
+$REX['MEDIA']['CAT_ID'][44]['path'] = '|8|';
+$REX['MEDIA']['CAT_ID'][44]['createdate'] = '1388941236';
+$REX['MEDIA']['CAT_ID'][44]['updatedate'] = '1388941236';
+$REX['MEDIA']['CAT_ID'][44]['createuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][44]['updateuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][44]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][44]['revision'] = '0';
+?>

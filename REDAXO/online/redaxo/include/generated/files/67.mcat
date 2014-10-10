@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][67]['id'] = '67';
+$REX['MEDIA']['CAT_ID'][67]['name'] = ' 13.05.02 DZ BANK - FRANK GEHRY – BERLIN';
+$REX['MEDIA']['CAT_ID'][67]['re_id'] = '6';
+$REX['MEDIA']['CAT_ID'][67]['path'] = '|6|';
+$REX['MEDIA']['CAT_ID'][67]['createdate'] = '1388945021';
+$REX['MEDIA']['CAT_ID'][67]['updatedate'] = '1388945021';
+$REX['MEDIA']['CAT_ID'][67]['createuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][67]['updateuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][67]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][67]['revision'] = '0';
+?>

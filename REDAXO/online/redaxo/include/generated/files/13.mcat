@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][13]['id'] = '13';
+$REX['MEDIA']['CAT_ID'][13]['name'] = 'cube aria arch';
+$REX['MEDIA']['CAT_ID'][13]['re_id'] = '0';
+$REX['MEDIA']['CAT_ID'][13]['path'] = '|';
+$REX['MEDIA']['CAT_ID'][13]['createdate'] = '1385412370';
+$REX['MEDIA']['CAT_ID'][13]['updatedate'] = '1385412370';
+$REX['MEDIA']['CAT_ID'][13]['createuser'] = 'snow';
+$REX['MEDIA']['CAT_ID'][13]['updateuser'] = 'snow';
+$REX['MEDIA']['CAT_ID'][13]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][13]['revision'] = '0';
+?>

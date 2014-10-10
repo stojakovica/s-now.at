@@ -1,0 +1,20 @@
+<?php
+$REX['MEDIA']['FILENAME']['_group_4_-img_3120_img_3123-4_images.jpg']['file_id'] = '902';
+$REX['MEDIA']['FILENAME']['_group_4_-img_3120_img_3123-4_images.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['_group_4_-img_3120_img_3123-4_images.jpg']['category_id'] = '77';
+$REX['MEDIA']['FILENAME']['_group_4_-img_3120_img_3123-4_images.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['_group_4_-img_3120_img_3123-4_images.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['_group_4_-img_3120_img_3123-4_images.jpg']['filename'] = '_group_4_-img_3120_img_3123-4_images.jpg';
+$REX['MEDIA']['FILENAME']['_group_4_-img_3120_img_3123-4_images.jpg']['originalname'] = '_group_4_-img_3120_img_3123-4_images.jpg';
+$REX['MEDIA']['FILENAME']['_group_4_-img_3120_img_3123-4_images.jpg']['filesize'] = '257733';
+$REX['MEDIA']['FILENAME']['_group_4_-img_3120_img_3123-4_images.jpg']['width'] = '1000';
+$REX['MEDIA']['FILENAME']['_group_4_-img_3120_img_3123-4_images.jpg']['height'] = '399';
+$REX['MEDIA']['FILENAME']['_group_4_-img_3120_img_3123-4_images.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['_group_4_-img_3120_img_3123-4_images.jpg']['createdate'] = '1388946000';
+$REX['MEDIA']['FILENAME']['_group_4_-img_3120_img_3123-4_images.jpg']['updatedate'] = '1388946000';
+$REX['MEDIA']['FILENAME']['_group_4_-img_3120_img_3123-4_images.jpg']['createuser'] = 'root';
+$REX['MEDIA']['FILENAME']['_group_4_-img_3120_img_3123-4_images.jpg']['updateuser'] = 'root';
+$REX['MEDIA']['FILENAME']['_group_4_-img_3120_img_3123-4_images.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['_group_4_-img_3120_img_3123-4_images.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['_group_4_-img_3120_img_3123-4_images.jpg']['med_copyright'] = '';
+?>

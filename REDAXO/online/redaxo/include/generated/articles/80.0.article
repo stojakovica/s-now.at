@@ -1,0 +1,37 @@
+<?php
+$REX['ART'][80]['article_id'][0] = '80';
+$REX['ART'][80]['last_update_stamp'][0] = '1388943388';
+$REX['ART'][80]['pid'][0] = '95';
+$REX['ART'][80]['re_id'][0] = '24';
+$REX['ART'][80]['name'][0] = '13.04.13 AREA47 - ALAIN KOHL – ÖZTAL';
+$REX['ART'][80]['catname'][0] = 'Outdoor';
+$REX['ART'][80]['catprior'][0] = '0';
+$REX['ART'][80]['attributes'][0] = '';
+$REX['ART'][80]['startpage'][0] = '0';
+$REX['ART'][80]['prior'][0] = '15';
+$REX['ART'][80]['path'][0] = '|20|24|';
+$REX['ART'][80]['status'][0] = '1';
+$REX['ART'][80]['createdate'][0] = '1388943179';
+$REX['ART'][80]['updatedate'][0] = '1388943388';
+$REX['ART'][80]['template_id'][0] = '1';
+$REX['ART'][80]['clang'][0] = '0';
+$REX['ART'][80]['createuser'][0] = 'root';
+$REX['ART'][80]['updateuser'][0] = 'root';
+$REX['ART'][80]['revision'][0] = '0';
+$REX['ART'][80]['art_online_from'][0] = '';
+$REX['ART'][80]['art_online_to'][0] = '';
+$REX['ART'][80]['art_description'][0] = '';
+$REX['ART'][80]['art_keywords'][0] = '';
+$REX['ART'][80]['art_file'][0] = '';
+$REX['ART'][80]['art_teaser'][0] = '||';
+$REX['ART'][80]['art_type_id'][0] = 'Standard';
+$REX['ART'][80]['art_content_images'][0] = '';
+$REX['ART'][80]['art_gallerylist'][0] = 'img_0424_2.jpg,img_0443.jpg,img_0415.jpg,_group_1_-img_0516_img_0518-3_images1-2_2.jpg';
+$REX['ART'][80]['art_gallerypreview'][0] = '_group_1_-img_0516_img_0518-3_images1-21.jpg';
+$REX['ART'][80]['art_gallerypreviewtext'][0] = 'NAME: ALAIN KOHL
+GEBURTSDATUM: 
+NATIONALITÄT: LU
+WOHNSITZ: TELFS, AT
+SPORT: CLIFFDIVING / SNOWBOARDEN
+BERUFUNG: CLIFFDIVER / SNOWBOARDLEHRER';
+?>

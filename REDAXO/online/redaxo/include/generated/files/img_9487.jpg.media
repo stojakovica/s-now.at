@@ -1,0 +1,20 @@
+<?php
+$REX['MEDIA']['FILENAME']['img_9487.jpg']['file_id'] = '91';
+$REX['MEDIA']['FILENAME']['img_9487.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['img_9487.jpg']['category_id'] = '7';
+$REX['MEDIA']['FILENAME']['img_9487.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['img_9487.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['img_9487.jpg']['filename'] = 'img_9487.jpg';
+$REX['MEDIA']['FILENAME']['img_9487.jpg']['originalname'] = 'img_9487.jpg';
+$REX['MEDIA']['FILENAME']['img_9487.jpg']['filesize'] = '104495';
+$REX['MEDIA']['FILENAME']['img_9487.jpg']['width'] = '1500';
+$REX['MEDIA']['FILENAME']['img_9487.jpg']['height'] = '845';
+$REX['MEDIA']['FILENAME']['img_9487.jpg']['title'] = 'INNSBRUCK';
+$REX['MEDIA']['FILENAME']['img_9487.jpg']['createdate'] = '1384013075';
+$REX['MEDIA']['FILENAME']['img_9487.jpg']['updatedate'] = '1385302329';
+$REX['MEDIA']['FILENAME']['img_9487.jpg']['createuser'] = 'root';
+$REX['MEDIA']['FILENAME']['img_9487.jpg']['updateuser'] = 'snow';
+$REX['MEDIA']['FILENAME']['img_9487.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['img_9487.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['img_9487.jpg']['med_copyright'] = '';
+?>

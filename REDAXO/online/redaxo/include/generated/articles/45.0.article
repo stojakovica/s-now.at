@@ -1,0 +1,37 @@
+<?php
+$REX['ART'][45]['article_id'][0] = '45';
+$REX['ART'][45]['last_update_stamp'][0] = '1388937963';
+$REX['ART'][45]['clang'][0] = '0';
+$REX['ART'][45]['pid'][0] = '59';
+$REX['ART'][45]['re_id'][0] = '23';
+$REX['ART'][45]['name'][0] = '11.07.21 KOI FISH - MIRJAM HAGEN';
+$REX['ART'][45]['catname'][0] = 'Portrait';
+$REX['ART'][45]['catprior'][0] = '0';
+$REX['ART'][45]['attributes'][0] = '';
+$REX['ART'][45]['startpage'][0] = '0';
+$REX['ART'][45]['prior'][0] = '6';
+$REX['ART'][45]['path'][0] = '|20|23|';
+$REX['ART'][45]['status'][0] = '1';
+$REX['ART'][45]['createdate'][0] = '1388937877';
+$REX['ART'][45]['updatedate'][0] = '1388937962';
+$REX['ART'][45]['template_id'][0] = '1';
+$REX['ART'][45]['createuser'][0] = 'root';
+$REX['ART'][45]['updateuser'][0] = 'root';
+$REX['ART'][45]['revision'][0] = '0';
+$REX['ART'][45]['art_online_from'][0] = '';
+$REX['ART'][45]['art_online_to'][0] = '';
+$REX['ART'][45]['art_description'][0] = '';
+$REX['ART'][45]['art_keywords'][0] = '';
+$REX['ART'][45]['art_file'][0] = '';
+$REX['ART'][45]['art_teaser'][0] = '||';
+$REX['ART'][45]['art_type_id'][0] = 'Standard';
+$REX['ART'][45]['art_content_images'][0] = '';
+$REX['ART'][45]['art_gallerylist'][0] = 'img_5069.jpg,img_4987-2_2.jpg,img_5044-2_1.jpg,img_5166-2_1.jpg,img_4960-3_2.jpg,img_5199-2_1.jpg';
+$REX['ART'][45]['art_gallerypreview'][0] = 'img_4989-3_1.jpg';
+$REX['ART'][45]['art_gallerypreviewtext'][0] = 'NAME: MIRJAM HAGEN
+GEBURTSDATUM: 27.07.1991
+NATIONALITÄT: AT
+WOHNSITZ: HÖRBRANZ, AT / INNSBRUCK, AT
+SPORT: 
+BERUFUNG: CLASSICA ET ORIENTALIASTUDIUM UIBK INNSBRUCK';
+?>

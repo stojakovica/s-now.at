@@ -1,0 +1,20 @@
+<?php
+$REX['MEDIA']['FILENAME']['img_6784-3.jpg']['file_id'] = '777';
+$REX['MEDIA']['FILENAME']['img_6784-3.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['img_6784-3.jpg']['category_id'] = '48';
+$REX['MEDIA']['FILENAME']['img_6784-3.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['img_6784-3.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['img_6784-3.jpg']['filename'] = 'img_6784-3.jpg';
+$REX['MEDIA']['FILENAME']['img_6784-3.jpg']['originalname'] = 'img_6784-3.jpg';
+$REX['MEDIA']['FILENAME']['img_6784-3.jpg']['filesize'] = '258361';
+$REX['MEDIA']['FILENAME']['img_6784-3.jpg']['width'] = '699';
+$REX['MEDIA']['FILENAME']['img_6784-3.jpg']['height'] = '1000';
+$REX['MEDIA']['FILENAME']['img_6784-3.jpg']['title'] = '';
+$REX['MEDIA']['FILENAME']['img_6784-3.jpg']['createdate'] = '1388942178';
+$REX['MEDIA']['FILENAME']['img_6784-3.jpg']['updatedate'] = '1388942178';
+$REX['MEDIA']['FILENAME']['img_6784-3.jpg']['createuser'] = 'root';
+$REX['MEDIA']['FILENAME']['img_6784-3.jpg']['updateuser'] = 'root';
+$REX['MEDIA']['FILENAME']['img_6784-3.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['img_6784-3.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['img_6784-3.jpg']['med_copyright'] = '';
+?>

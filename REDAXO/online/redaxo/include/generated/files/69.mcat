@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][69]['id'] = '69';
+$REX['MEDIA']['CAT_ID'][69]['name'] = '13.05.03 JÜDISCHES MUSEUMK - LIBESKIND – BERLIN';
+$REX['MEDIA']['CAT_ID'][69]['re_id'] = '6';
+$REX['MEDIA']['CAT_ID'][69]['path'] = '|6|';
+$REX['MEDIA']['CAT_ID'][69]['createdate'] = '1388945148';
+$REX['MEDIA']['CAT_ID'][69]['updatedate'] = '1388945148';
+$REX['MEDIA']['CAT_ID'][69]['createuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][69]['updateuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][69]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][69]['revision'] = '0';
+?>

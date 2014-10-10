@@ -1,0 +1,12 @@
+<?php
+$REX['MEDIA']['CAT_ID'][47]['id'] = '47';
+$REX['MEDIA']['CAT_ID'][47]['name'] = '11.08.31 FIAT COUPE - IVO DI RONCO – LUXEMBURG';
+$REX['MEDIA']['CAT_ID'][47]['re_id'] = '8';
+$REX['MEDIA']['CAT_ID'][47]['path'] = '|8|';
+$REX['MEDIA']['CAT_ID'][47]['createdate'] = '1388941741';
+$REX['MEDIA']['CAT_ID'][47]['updatedate'] = '1388941741';
+$REX['MEDIA']['CAT_ID'][47]['createuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][47]['updateuser'] = 'root';
+$REX['MEDIA']['CAT_ID'][47]['attributes'] = '';
+$REX['MEDIA']['CAT_ID'][47]['revision'] = '0';
+?>

@@ -1,0 +1,20 @@
+<?php
+$REX['MEDIA']['FILENAME']['img_4342-2.jpg']['file_id'] = '102';
+$REX['MEDIA']['FILENAME']['img_4342-2.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['img_4342-2.jpg']['category_id'] = '8';
+$REX['MEDIA']['FILENAME']['img_4342-2.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['img_4342-2.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['img_4342-2.jpg']['filename'] = 'img_4342-2.jpg';
+$REX['MEDIA']['FILENAME']['img_4342-2.jpg']['originalname'] = 'img_4342-2.jpg';
+$REX['MEDIA']['FILENAME']['img_4342-2.jpg']['filesize'] = '269300';
+$REX['MEDIA']['FILENAME']['img_4342-2.jpg']['width'] = '1500';
+$REX['MEDIA']['FILENAME']['img_4342-2.jpg']['height'] = '1000';
+$REX['MEDIA']['FILENAME']['img_4342-2.jpg']['title'] = 'FLORIAN WOPFNER';
+$REX['MEDIA']['FILENAME']['img_4342-2.jpg']['createdate'] = '1384013166';
+$REX['MEDIA']['FILENAME']['img_4342-2.jpg']['updatedate'] = '1385302093';
+$REX['MEDIA']['FILENAME']['img_4342-2.jpg']['createuser'] = 'root';
+$REX['MEDIA']['FILENAME']['img_4342-2.jpg']['updateuser'] = 'snow';
+$REX['MEDIA']['FILENAME']['img_4342-2.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['img_4342-2.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['img_4342-2.jpg']['med_copyright'] = '';
+?>

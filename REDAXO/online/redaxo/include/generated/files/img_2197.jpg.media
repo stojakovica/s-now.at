@@ -1,0 +1,20 @@
+<?php
+$REX['MEDIA']['FILENAME']['img_2197.jpg']['file_id'] = '84';
+$REX['MEDIA']['FILENAME']['img_2197.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['img_2197.jpg']['category_id'] = '6';
+$REX['MEDIA']['FILENAME']['img_2197.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['img_2197.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['img_2197.jpg']['filename'] = 'img_2197.jpg';
+$REX['MEDIA']['FILENAME']['img_2197.jpg']['originalname'] = 'img_2197.jpg';
+$REX['MEDIA']['FILENAME']['img_2197.jpg']['filesize'] = '136537';
+$REX['MEDIA']['FILENAME']['img_2197.jpg']['width'] = '1000';
+$REX['MEDIA']['FILENAME']['img_2197.jpg']['height'] = '1500';
+$REX['MEDIA']['FILENAME']['img_2197.jpg']['title'] = 'DANIEL LIBESKIND BERLIN';
+$REX['MEDIA']['FILENAME']['img_2197.jpg']['createdate'] = '1384013033';
+$REX['MEDIA']['FILENAME']['img_2197.jpg']['updatedate'] = '1385324894';
+$REX['MEDIA']['FILENAME']['img_2197.jpg']['createuser'] = 'root';
+$REX['MEDIA']['FILENAME']['img_2197.jpg']['updateuser'] = 'snow';
+$REX['MEDIA']['FILENAME']['img_2197.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['img_2197.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['img_2197.jpg']['med_copyright'] = '';
+?>

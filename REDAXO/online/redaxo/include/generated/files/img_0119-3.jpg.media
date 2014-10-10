@@ -1,0 +1,20 @@
+<?php
+$REX['MEDIA']['FILENAME']['img_0119-3.jpg']['file_id'] = '95';
+$REX['MEDIA']['FILENAME']['img_0119-3.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['img_0119-3.jpg']['category_id'] = '7';
+$REX['MEDIA']['FILENAME']['img_0119-3.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['img_0119-3.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['img_0119-3.jpg']['filename'] = 'img_0119-3.jpg';
+$REX['MEDIA']['FILENAME']['img_0119-3.jpg']['originalname'] = 'img_0119-3.jpg';
+$REX['MEDIA']['FILENAME']['img_0119-3.jpg']['filesize'] = '349568';
+$REX['MEDIA']['FILENAME']['img_0119-3.jpg']['width'] = '665';
+$REX['MEDIA']['FILENAME']['img_0119-3.jpg']['height'] = '1000';
+$REX['MEDIA']['FILENAME']['img_0119-3.jpg']['title'] = 'STRUKTUR IGLS';
+$REX['MEDIA']['FILENAME']['img_0119-3.jpg']['createdate'] = '1384013108';
+$REX['MEDIA']['FILENAME']['img_0119-3.jpg']['updatedate'] = '1385302276';
+$REX['MEDIA']['FILENAME']['img_0119-3.jpg']['createuser'] = 'root';
+$REX['MEDIA']['FILENAME']['img_0119-3.jpg']['updateuser'] = 'snow';
+$REX['MEDIA']['FILENAME']['img_0119-3.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['img_0119-3.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['img_0119-3.jpg']['med_copyright'] = '';
+?>

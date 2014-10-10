@@ -1,0 +1,20 @@
+<?php
+$REX['MEDIA']['FILENAME']['img_4822-3.jpg']['file_id'] = '120';
+$REX['MEDIA']['FILENAME']['img_4822-3.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['img_4822-3.jpg']['category_id'] = '9';
+$REX['MEDIA']['FILENAME']['img_4822-3.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['img_4822-3.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['img_4822-3.jpg']['filename'] = 'img_4822-3.jpg';
+$REX['MEDIA']['FILENAME']['img_4822-3.jpg']['originalname'] = 'img_4822-3.jpg';
+$REX['MEDIA']['FILENAME']['img_4822-3.jpg']['filesize'] = '195637';
+$REX['MEDIA']['FILENAME']['img_4822-3.jpg']['width'] = '1500';
+$REX['MEDIA']['FILENAME']['img_4822-3.jpg']['height'] = '868';
+$REX['MEDIA']['FILENAME']['img_4822-3.jpg']['title'] = 'SARAH TRIXL';
+$REX['MEDIA']['FILENAME']['img_4822-3.jpg']['createdate'] = '1384013255';
+$REX['MEDIA']['FILENAME']['img_4822-3.jpg']['updatedate'] = '1385301867';
+$REX['MEDIA']['FILENAME']['img_4822-3.jpg']['createuser'] = 'root';
+$REX['MEDIA']['FILENAME']['img_4822-3.jpg']['updateuser'] = 'snow';
+$REX['MEDIA']['FILENAME']['img_4822-3.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['img_4822-3.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['img_4822-3.jpg']['med_copyright'] = '';
+?>

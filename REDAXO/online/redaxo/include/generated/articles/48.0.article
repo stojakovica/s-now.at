@@ -1,0 +1,37 @@
+<?php
+$REX['ART'][48]['article_id'][0] = '48';
+$REX['ART'][48]['last_update_stamp'][0] = '1388938288';
+$REX['ART'][48]['clang'][0] = '0';
+$REX['ART'][48]['pid'][0] = '62';
+$REX['ART'][48]['re_id'][0] = '23';
+$REX['ART'][48]['name'][0] = '11.08.09 FINGERPRINT - SHAYAN SADR-SALEK';
+$REX['ART'][48]['catname'][0] = 'Portrait';
+$REX['ART'][48]['catprior'][0] = '0';
+$REX['ART'][48]['attributes'][0] = '';
+$REX['ART'][48]['startpage'][0] = '0';
+$REX['ART'][48]['prior'][0] = '9';
+$REX['ART'][48]['path'][0] = '|20|23|';
+$REX['ART'][48]['status'][0] = '1';
+$REX['ART'][48]['createdate'][0] = '1388938225';
+$REX['ART'][48]['updatedate'][0] = '1388938286';
+$REX['ART'][48]['template_id'][0] = '1';
+$REX['ART'][48]['createuser'][0] = 'root';
+$REX['ART'][48]['updateuser'][0] = 'root';
+$REX['ART'][48]['revision'][0] = '0';
+$REX['ART'][48]['art_online_from'][0] = '';
+$REX['ART'][48]['art_online_to'][0] = '';
+$REX['ART'][48]['art_description'][0] = '';
+$REX['ART'][48]['art_keywords'][0] = '';
+$REX['ART'][48]['art_file'][0] = '';
+$REX['ART'][48]['art_teaser'][0] = '||';
+$REX['ART'][48]['art_type_id'][0] = 'Standard';
+$REX['ART'][48]['art_content_images'][0] = '';
+$REX['ART'][48]['art_gallerylist'][0] = 'img_5677.jpg,img_5720_1.jpg,img_5695_1.jpg';
+$REX['ART'][48]['art_gallerypreview'][0] = 'img_3382_1.jpg';
+$REX['ART'][48]['art_gallerypreviewtext'][0] = 'NAME: SHAYAN SADR-SALEK
+GEBURTSDATUM: 17.08.1992
+NATIONALITÄT: CH
+WOHNSITZ: BASCHARAGE, LU / FREIBURG, DE
+SPORT: 
+BERUFUNG: PSYCHOLOGIESTUDIUM UNIVERSITÄT FREIBURG';
+?>

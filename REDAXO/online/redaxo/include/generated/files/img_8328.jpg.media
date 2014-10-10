@@ -1,0 +1,20 @@
+<?php
+$REX['MEDIA']['FILENAME']['img_8328.jpg']['file_id'] = '107';
+$REX['MEDIA']['FILENAME']['img_8328.jpg']['re_file_id'] = '0';
+$REX['MEDIA']['FILENAME']['img_8328.jpg']['category_id'] = '8';
+$REX['MEDIA']['FILENAME']['img_8328.jpg']['attributes'] = '';
+$REX['MEDIA']['FILENAME']['img_8328.jpg']['filetype'] = 'image/jpeg';
+$REX['MEDIA']['FILENAME']['img_8328.jpg']['filename'] = 'img_8328.jpg';
+$REX['MEDIA']['FILENAME']['img_8328.jpg']['originalname'] = 'img_8328.jpg';
+$REX['MEDIA']['FILENAME']['img_8328.jpg']['filesize'] = '184330';
+$REX['MEDIA']['FILENAME']['img_8328.jpg']['width'] = '1500';
+$REX['MEDIA']['FILENAME']['img_8328.jpg']['height'] = '1000';
+$REX['MEDIA']['FILENAME']['img_8328.jpg']['title'] = 'LUCIEN FREYLINGER';
+$REX['MEDIA']['FILENAME']['img_8328.jpg']['createdate'] = '1384013179';
+$REX['MEDIA']['FILENAME']['img_8328.jpg']['updatedate'] = '1385302045';
+$REX['MEDIA']['FILENAME']['img_8328.jpg']['createuser'] = 'root';
+$REX['MEDIA']['FILENAME']['img_8328.jpg']['updateuser'] = 'snow';
+$REX['MEDIA']['FILENAME']['img_8328.jpg']['revision'] = '0';
+$REX['MEDIA']['FILENAME']['img_8328.jpg']['med_description'] = '';
+$REX['MEDIA']['FILENAME']['img_8328.jpg']['med_copyright'] = '';
+?>

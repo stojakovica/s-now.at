@@ -17,7 +17,7 @@ if($REX["REDAXO"] && !$REX['SETUP'])
   // $REX['ADDON']['name'][$mypage] = $I18N->msg("xform_table_manager");
   $REX['ADDON']['version'][$mypage] = '4.5';
   $REX['ADDON']['author'][$mypage] = 'Jan Kristinus';
-  $REX['ADDON']['supportpage'][$mypage] = 'www.yakamara.de/tag/redaxo/';
+  $REX['ADDON']['supportpage'][$mypage] = 'www.yakamara.de/tag/redaxo-temp/';
   $REX['ADDON']['navigation'][$mypage] = array(
     // rootPage nur aktivieren wenn sie direkt ausgewaehlt ist
     // da alle pages main-pages und daher separate oberpunkte sind

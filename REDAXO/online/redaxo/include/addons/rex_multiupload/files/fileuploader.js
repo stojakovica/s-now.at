@@ -79,7 +79,7 @@ jQuery(document).ready(function()
 {
   /**
    * add click event to li from edit_list. received data from mediapool will be
-   * parsed and displayed under uploader in redaxo
+   * parsed and displayed under uploader in redaxo-temp
    */
   jQuery('.edit_uploads li').live('click', function(event)
   {

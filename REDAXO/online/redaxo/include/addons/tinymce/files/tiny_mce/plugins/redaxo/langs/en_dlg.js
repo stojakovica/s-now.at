@@ -1,4 +1,4 @@
-tinyMCE.addI18n('en.redaxo',{
+tinyMCE.addI18n('en.redaxo-temp',{
 
 	redaxoEmail_dlg_dlgtitle : 'Insert/edit EMail',
 	redaxoEmail_dlg_general_tab : 'EMail address',

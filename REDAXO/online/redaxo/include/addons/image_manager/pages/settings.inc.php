@@ -3,7 +3,7 @@
 /**
  * image_manager Addon
  *
- * @author markus.staab[at]redaxo[dot]de Markus Staab
+ * @author markus.staab[at]redaxo-temp[dot]de Markus Staab
  * @author jan.kristinus[at]yakmara[dot]de Jan Kristinus
  *
  * @package redaxo4

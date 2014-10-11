@@ -20,7 +20,7 @@ if($REX['REDAXO'])
   // Credits
   $REX['ADDON']['version']['article_status'] = '1.0';
   $REX['ADDON']['author']['article_status'] = 'Gregor Harlan';
-  $REX['ADDON']['supportpage']['article_status'] = 'forum.redaxo.de';
+  $REX['ADDON']['supportpage']['article_status'] = 'forum.redaxo-temp.de';
 
 }
 

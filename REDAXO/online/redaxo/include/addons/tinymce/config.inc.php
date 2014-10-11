@@ -4,7 +4,7 @@
  * TinyMCE Addon
  *
  * @author andreaseberhard[at]gmail[dot]com Andreas Eberhard
- * @author <a href="http://www.redaxo.de">www.redaxo.de</a>
+ * @author <a href="http://www.redaxo-temp.de">www.redaxo-temp.de</a>
  *
  * @package redaxo4
  * @version svn:$Id$
@@ -51,7 +51,7 @@ if ($REX['REDAXO'])
   $REX['ADDON']['perm'][$mypage] = $mypage.'[]';
 
   $REX['ADDON']['author'][$mypage] = 'Andreas Eberhard';
-  $REX['ADDON']['supportpage'][$mypage] = 'forum.redaxo.de';
+  $REX['ADDON']['supportpage'][$mypage] = 'forum.redaxo-temp.de';
   $REX['PERM'][] = $mypage.'[]';
 
   // Subpages

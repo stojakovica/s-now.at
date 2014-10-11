@@ -20,7 +20,7 @@ if($REX['REDAXO'])
   // Credits
   $REX['ADDON']['version']['optimize_tables'] = '1.0';
   $REX['ADDON']['author']['optimize_tables'] = 'Gregor Harlan';
-  $REX['ADDON']['supportpage']['optimize_tables'] = 'forum.redaxo.de';
+  $REX['ADDON']['supportpage']['optimize_tables'] = 'forum.redaxo-temp.de';
 
 }
 

@@ -3,8 +3,8 @@
 /**
  * RSS Reader Addon
  *
- * @author markus[dot]staab[at]redaxo[dot]de Markus Staab
- * @author <a href="http://www.redaxo.de">www.redaxo.de</a>
+ * @author markus[dot]staab[at]redaxo-temp[dot]de Markus Staab
+ * @author <a href="http://www.redaxo-temp.de">www.redaxo-temp.de</a>
  *
  * @package redaxo4
  * @version svn:$Id$
@@ -54,7 +54,7 @@ class rex_rss_reader_component_config extends rex_dashboard_component_config
   function rex_rss_reader_component_config()
   {
     $defaultSettings = array(
-      'urls' => array('http://www.redaxo.de/de/rss/news/'),
+      'urls' => array('http://www.redaxo-temp.de/de/rss/news/'),
     );
     parent::rex_dashboard_component_config($defaultSettings);
   }

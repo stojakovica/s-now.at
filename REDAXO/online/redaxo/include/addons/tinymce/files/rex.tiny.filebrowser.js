@@ -20,7 +20,7 @@ function TinyMCE_FileBrowser(field_name, url, type, win)
 
 	if (type == 'file')
 	{
-		idurl = url.replace('redaxo://', '');
+		idurl = url.replace('redaxo-temp://', '');
 		if (idurl != '')
 		{
 			idurl = '&category_id='+idurl;

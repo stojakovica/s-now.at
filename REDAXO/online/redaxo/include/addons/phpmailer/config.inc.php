@@ -3,7 +3,7 @@
 /**
  * PHPMailer Addon
  *
- * @author markus[dot]staab[at]redaxo[dot]de Markus Staab
+ * @author markus[dot]staab[at]redaxo-temp[dot]de Markus Staab
  *
  * @package redaxo4
  * @version svn:$Id$
@@ -15,7 +15,7 @@ $REX['ADDON']['name'][$mypage] = 'PHPMailer';
 $REX['ADDON']['perm'][$mypage] = 'phpmailer[]';
 $REX['ADDON']['version'][$mypage] = "2.8";
 $REX['ADDON']['author'][$mypage] = "Markus Staab, Brent R. Matzelle";
-$REX['ADDON']['supportpage'][$mypage] = "www.redaxo.org/de/forum";
+$REX['ADDON']['supportpage'][$mypage] = "www.redaxo-temp.org/de/forum";
 
 $REX['PERM'][] = 'phpmailer[]';
 

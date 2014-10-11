@@ -1,4 +1,4 @@
-tinyMCE.addI18n('de.redaxo',{
+tinyMCE.addI18n('de.redaxo-temp',{
 
 	redaxoEmail_ButtonDesc : 'E-Mail-Link einf\u00FCgen/bearbeiten',
 	redaxoEmail_delta_width : '0',

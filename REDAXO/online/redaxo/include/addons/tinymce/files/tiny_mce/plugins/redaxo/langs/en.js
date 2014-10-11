@@ -1,4 +1,4 @@
-tinyMCE.addI18n('en.redaxo',{
+tinyMCE.addI18n('en.redaxo-temp',{
 
 	redaxoEmail_ButtonDesc : 'Insert/edit EMail',
 	redaxoEmail_delta_width : '0',

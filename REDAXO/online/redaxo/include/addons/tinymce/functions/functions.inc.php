@@ -4,7 +4,7 @@
  * TinyMCE Addon
  *
  * @author andreaseberhard[at]gmail[dot]com Andreas Eberhard
- * @author <a href="http://www.redaxo.de">www.redaxo.de</a>
+ * @author <a href="http://www.redaxo-temp.de">www.redaxo-temp.de</a>
  *
  * @package redaxo4
  * @version svn:$Id$
@@ -300,7 +300,7 @@ function tinymce_output_filter($content)
   // TinyMCE einbinden
   if ($REX['REDAXO'])
   {
-    $rp = 'redaxo/index.php';
+    $rp = 'redaxo-temp/index.php';
   }
   else
   {
@@ -633,7 +633,7 @@ global $REX;
   {
     $search[0] = '</head>';
     $replace[0]  = "\n\n" . '  <!-- Addon TinyMCE -->';
-    $replace[0] .= "\n" . '  <script src="' . $REX['HTDOCS_PATH'] . 'redaxo/index.php?tinymcemedia=true&amp;clang=' . $REX['CUR_CLANG'] . '&amp;opener_input_field=' . $oif . '" type="text/javascript"></script>' . "\n";
+    $replace[0] .= "\n" . '  <script src="' . $REX['HTDOCS_PATH'] . 'redaxo-temp/index.php?tinymcemedia=true&amp;clang=' . $REX['CUR_CLANG'] . '&amp;opener_input_field=' . $oif . '" type="text/javascript"></script>' . "\n";
     $replace[0] .= "\n" . '</head>' . "\n";
     $search[1] = 'javascript:selectMedia(';
     $replace[1] = 'javascript:TinyMCE_selectMedia(';
@@ -652,7 +652,7 @@ global $REX;
   {
     $search[0] = '</head>';
     $replace[0]  = "\n\n" . '  <!-- Addon TinyMCE -->';
-    $replace[0] .= "\n" . '  <script src="' . $REX['HTDOCS_PATH'] . 'redaxo/index.php?tinymcelink=true&amp;clang=' . $REX['CUR_CLANG'] . '&amp;opener_input_field=' . $oif . '" type="text/javascript"></script>' . "\n";
+    $replace[0] .= "\n" . '  <script src="' . $REX['HTDOCS_PATH'] . 'redaxo-temp/index.php?tinymcelink=true&amp;clang=' . $REX['CUR_CLANG'] . '&amp;opener_input_field=' . $oif . '" type="text/javascript"></script>' . "\n";
     $replace[0] .= "\n" . '</head>' . "\n";
     $search[1] = 'javascript:insertLink(';
     $replace[1] = 'javascript:TinyMCE_insertLink(';
@@ -681,7 +681,7 @@ global $REX;
   if (rex_request('saveandexit', 'string', '') <> '')
   {
     $scriptoutput = "\n\n" . '  <!-- Addon TinyMCE -->';
-    $scriptoutput .= "\n" . '  <script src="' . $REX['HTDOCS_PATH'] . 'redaxo/index.php?tinymcemedia=true&amp;clang=' . $REX['CUR_CLANG'] . '" type="text/javascript"></script>' . "\n";
+    $scriptoutput .= "\n" . '  <script src="' . $REX['HTDOCS_PATH'] . 'redaxo-temp/index.php?tinymcemedia=true&amp;clang=' . $REX['CUR_CLANG'] . '" type="text/javascript"></script>' . "\n";
     $scriptoutput .= "\n\n";
 
     $scriptoutput .= "\n" . '<script type="text/javascript">';

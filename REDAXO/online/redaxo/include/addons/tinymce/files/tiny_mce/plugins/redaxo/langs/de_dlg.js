@@ -1,4 +1,4 @@
-tinyMCE.addI18n('de.redaxo',{
+tinyMCE.addI18n('de.redaxo-temp',{
 
 	redaxoEmail_dlg_dlgtitle : 'E-Mail-Link einf\u00FCgen/bearbeiten',
 	redaxoEmail_dlg_general_tab : 'E-Mail Adresse',

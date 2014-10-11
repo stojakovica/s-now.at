@@ -2,7 +2,7 @@
 
 /**
  * URL-Rewrite Addon
- * @author markus.staab[at]redaxo[dot]de Markus Staab
+ * @author markus.staab[at]redaxo-temp[dot]de Markus Staab
  * @package redaxo4.2
  * @version svn:$Id$
  */

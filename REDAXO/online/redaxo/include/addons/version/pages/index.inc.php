@@ -3,7 +3,7 @@
 /**
  * Version AddOn
  *
- * @author jan.kristinus@redaxo.de Jan Kristinus
+ * @author jan.kristinus@redaxo-temp.de Jan Kristinus
  *
  * @package redaxo4
  * @version svn:$Id$

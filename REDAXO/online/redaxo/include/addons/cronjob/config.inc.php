@@ -24,7 +24,7 @@ if($REX['REDAXO'])
   // Credits
   $REX['ADDON']['version'][$mypage] = '1.1';
   $REX['ADDON']['author'][$mypage] = 'Gregor Harlan';
-  $REX['ADDON']['supportpage'][$mypage] = 'forum.redaxo.de';
+  $REX['ADDON']['supportpage'][$mypage] = 'forum.redaxo-temp.de';
 
   $rootPage = new rex_be_page($I18N->msg('cronjob_title'), array(
       'page'=>$mypage,

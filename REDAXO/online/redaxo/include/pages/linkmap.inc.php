@@ -48,7 +48,7 @@ else if (substr($opener_input_field,0,13)=="REX_LINKLIST_")
 {
 $id = substr($opener_input_field,13,strlen($opener_input_field));
 $func_body .= 'var linklist = "REX_LINKLIST_SELECT_'. $id .'";
-               var linkid = link.replace("redaxo://","");
+               var linkid = link.replace("redaxo-temp://","");
          var source = opener.document.getElementById(linklist);
          var sourcelength = source.options.length;
 
@@ -60,7 +60,7 @@ $func_body .= 'var linklist = "REX_LINKLIST_SELECT_'. $id .'";
          opener.writeREXLinklist('. $id .');';
 }
 else {
-$func_body .= 'var linkid = link.replace("redaxo://","");
+$func_body .= 'var linkid = link.replace("redaxo-temp://","");
                window.opener.document.getElementById("'. $opener_input_field .'").value = linkid;
                window.opener.document.getElementById("'. $opener_input_field_name .'").value = name;
                self.close();';

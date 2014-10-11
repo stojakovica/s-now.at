@@ -7,9 +7,9 @@
 
 (function() {
 	// Load plugin specific language pack
-	tinymce.PluginManager.requireLangPack('redaxo');
+	tinymce.PluginManager.requireLangPack('redaxo-temp');
 
-	tinymce.create('tinymce.plugins.redaxo', {
+	tinymce.create('tinymce.plugins.redaxo-temp', {
 		/**
 		 * Initializes the plugin, this will be executed after the plugin has been created.
 		 * This call is done before the editor instance has finished it's initialization so use the onInit event
@@ -30,8 +30,8 @@
 					
 				ed.windowManager.open({
 					file : url + '/redaxoEmail.html',
-					width : 400 + parseInt(ed.getLang('redaxo.redaxoEmail_delta_width', 0)),
-					height : 160 + parseInt(ed.getLang('redaxo.redaxoEmail_delta_height', 0)),
+					width : 400 + parseInt(ed.getLang('redaxo-temp.redaxoEmail_delta_width', 0)),
+					height : 160 + parseInt(ed.getLang('redaxo-temp.redaxoEmail_delta_height', 0)),
 					inline : 1
 				}, {
 					plugin_url : url, // Plugin absolute URL
@@ -41,7 +41,7 @@
 
 			// Register redaxoEmail button
 			ed.addButton('redaxoEmail', {
-				title : 'redaxo.redaxoEmail_ButtonDesc',
+				title : 'redaxo-temp.redaxoEmail_ButtonDesc',
 				cmd : 'mceRedaxoEmail',
 				image : url + '/img/redaxoEmail.gif'
 			});
@@ -79,8 +79,8 @@
 					
 				ed.windowManager.open({
 					file : url + '/redaxoMedia.html',
-					width : 400 + parseInt(ed.getLang('redaxo.redaxoMedia_delta_width', 0)),
-					height : 160 + parseInt(ed.getLang('redaxo.redaxoMedia_delta_height', 0)),
+					width : 400 + parseInt(ed.getLang('redaxo-temp.redaxoMedia_delta_width', 0)),
+					height : 160 + parseInt(ed.getLang('redaxo-temp.redaxoMedia_delta_height', 0)),
 					inline : 1
 				}, {
 					plugin_url : url, // Plugin absolute URL
@@ -90,7 +90,7 @@
 
 			// Register redaxoMedia button
 			ed.addButton('redaxoMedia', {
-				title : 'redaxo.redaxoMedia_ButtonDesc',
+				title : 'redaxo-temp.redaxoMedia_ButtonDesc',
 				cmd : 'mceRedaxoMedia',
 				image : url + '/img/redaxoMedia.gif'
 			});
@@ -148,5 +148,5 @@
 	});
 
 	// Register plugin
-	tinymce.PluginManager.add('redaxo', tinymce.plugins.redaxo);
+	tinymce.PluginManager.add('redaxo-temp', tinymce.plugins.redaxo);
 })();

@@ -144,7 +144,7 @@ if(count($fields)>0)
     data_counter = data_counter + 1;
 
     if(data_next == "0") {
-      jQuery("#xform_geo_count_"+field).html(jQuery("#xform_geo_count_"+field).html()+"<a href=\"/redaxo/index.php?page=xform&subpage=manager&tripage=data_edit&table_name="+table+"&data_id="+data_id+"&func=edit&start=\">Geocoding not possible, try manually [id=\""+data_id+"\"]</a>");
+      jQuery("#xform_geo_count_"+field).html(jQuery("#xform_geo_count_"+field).html()+"<a href=\"/redaxo-temp/index.php?page=xform&subpage=manager&tripage=data_edit&table_name="+table+"&data_id="+data_id+"&func=edit&start=\">Geocoding not possible, try manually [id=\""+data_id+"\"]</a>");
       // return false;
     }
     setTimeout("xform_geo_update()",1000);

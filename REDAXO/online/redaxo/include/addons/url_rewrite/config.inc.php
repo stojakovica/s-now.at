@@ -2,7 +2,7 @@
 
 /**
  * URL-Rewrite Addon
- * @author markus.staab[at]redaxo[dot]de Markus Staab
+ * @author markus.staab[at]redaxo-temp[dot]de Markus Staab
  * @package redaxo4.2
  * @version svn:$Id$
  */
@@ -12,7 +12,7 @@ $mypage = "url_rewrite";
 // $REX['ADDON']['name'][$mypage] = 'URL Rewrite';
 $REX['ADDON']['version'][$mypage] = "1.1.4";
 $REX['ADDON']['author'][$mypage] = "Markus Staab, Wolfgang Huttegger, Ruediger Nitzsche, Jan Kristinus";
-$REX['ADDON']['supportpage'][$mypage] = 'forum.redaxo.de';
+$REX['ADDON']['supportpage'][$mypage] = 'forum.redaxo-temp.de';
 
 if ($REX['MOD_REWRITE'] !== false)
 {

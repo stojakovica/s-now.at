@@ -15,7 +15,7 @@ $REX['ADDON']['rxid'][$mypage] = '461';
 // $REX['ADDON']['perm'][$mypage] = 'version[]';
 $REX['ADDON']['version'][$mypage] = '0.2';
 $REX['ADDON']['author'][$mypage] = 'Jan Kristinus';
-$REX['ADDON']['supportpage'][$mypage] = 'forum.redaxo.de';
+$REX['ADDON']['supportpage'][$mypage] = 'forum.redaxo-temp.de';
 
 $REX['EXTRAPERM'][] = 'version[only_working_version]';
 // $REX['EXTPERM'][] = 'version[admin]';

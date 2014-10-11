@@ -1,0 +1,1 @@
+<a href="#" class="galleryBox" data-previewImg="REX_FILE[1]" data-previewText="REX_VALUE[2]" data-galleryList="REX_MEDIALIST[1]">REX_VALUE[1]</a>

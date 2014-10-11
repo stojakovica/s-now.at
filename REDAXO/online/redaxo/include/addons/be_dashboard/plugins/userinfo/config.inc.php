@@ -3,8 +3,8 @@
 /**
  * Userinfo Addon
  *
- * @author markus[dot]staab[at]redaxo[dot]de Markus Staab
- * @author <a href="http://www.redaxo.de">www.redaxo.de</a>
+ * @author markus[dot]staab[at]redaxo-temp[dot]de Markus Staab
+ * @author <a href="http://www.redaxo-temp.de">www.redaxo-temp.de</a>
  *
  * @package redaxo4
  * @version svn:$Id$
@@ -17,7 +17,7 @@ $REX['ADDON']['rxid'][$mypage] = '659';
 $REX['ADDON']['page'][$mypage] = $mypage;
 $REX['ADDON']['version'][$mypage] = '1.3';
 $REX['ADDON']['author'][$mypage] = 'Markus Staab';
-$REX['ADDON']['supportpage'][$mypage] = 'forum.redaxo.de';
+$REX['ADDON']['supportpage'][$mypage] = 'forum.redaxo-temp.de';
 
 // im backend und eingeloggt?
 if($REX["REDAXO"] && $REX["USER"])

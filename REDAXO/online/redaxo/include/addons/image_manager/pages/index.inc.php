@@ -4,7 +4,7 @@
  * Image-Resize Addon
  *
  * @author office[at]vscope[dot]at Wolfgang Hutteger
- * @author markus.staab[at]redaxo[dot]de Markus Staab
+ * @author markus.staab[at]redaxo-temp[dot]de Markus Staab
  * @author jan.kristinus[at]yakmara[dot]de Jan Kristinus
  * @author dh[at]daveholloway[dot]co[dot]uk Dave Holloway
  *

@@ -4,7 +4,7 @@ define('FULLNAMES_PATHLIST', $REX['GENERATED_PATH'].'/files/pathlist.php');
 
 /**
  * URL-Rewrite Addon
- * @author markus.staab[at]redaxo[dot]de Markus Staab
+ * @author markus.staab[at]redaxo-temp[dot]de Markus Staab
  * @package redaxo4.2
  */
 
@@ -19,11 +19,11 @@ define('FULLNAMES_PATHLIST', $REX['GENERATED_PATH'].'/files/pathlist.php');
  *     RewriteCond %{REQUEST_FILENAME} !-f
  *     RewriteCond %{REQUEST_FILENAME} !-d
  *     RewriteCond %{REQUEST_FILENAME} !-l
- *     RewriteCond %{REQUEST_URI} !^redaxo/.*
+ *     RewriteCond %{REQUEST_URI} !^redaxo-temp/.*
  *     RewriteCond %{REQUEST_URI} !^files/.*
  *     RewriteRule ^(.*)$ index.php?%{QUERY_STRING} [L]
  *
- *   2) .htaccess file in das redaxo/ verzeichnis:
+ *   2) .htaccess file in das redaxo-temp/ verzeichnis:
  *     RewriteEngine Off
  *
  *   3) im Template folgende Zeile AM ANFANG des <head> ergänzen:
@@ -34,7 +34,7 @@ define('FULLNAMES_PATHLIST', $REX['GENERATED_PATH'].'/files/pathlist.php');
  *   5) ggf. Rewrite-Base der .htaccess Datei anpassen
  *
  * @author staab[at]public-4u[dot]de Markus Staab
- * @author <a href="http://www.redaxo.de">www.redaxo.de</a>
+ * @author <a href="http://www.redaxo-temp.de">www.redaxo-temp.de</a>
  *
  * @author office[at]vscope[dot]at Wolfgang Huttegger
  * @author <a href="http://www.vscope.at/">vscope new media</a>
@@ -278,7 +278,7 @@ if ($REX['REDAXO'])
 /**
  * rex_rewriter_generate_pathnames
  * generiert die Pathlist, abhŠngig von Aktion
- * @author markus.staab[at]redaxo[dot]de Markus Staab
+ * @author markus.staab[at]redaxo-temp[dot]de Markus Staab
  * @package redaxo4.2
  */
 

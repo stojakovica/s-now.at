@@ -3,7 +3,7 @@
 /**
  * MetaForm Addon
  *
- * @author markus[dot]staab[at]redaxo[dot]de Markus Staab
+ * @author markus[dot]staab[at]redaxo-temp[dot]de Markus Staab
  *
  * @package redaxo4
  * @version svn:$Id$
@@ -36,7 +36,7 @@ $REX['ADDON']['name'][$mypage] = 'Meta Infos';
 $REX['ADDON']['perm'][$mypage] = 'admin[]';
 $REX['ADDON']['version'][$mypage] = "1.3";
 $REX['ADDON']['author'][$mypage] = "Markus Staab, Jan Kristinus";
-$REX['ADDON']['supportpage'][$mypage] = 'forum.redaxo.de';
+$REX['ADDON']['supportpage'][$mypage] = 'forum.redaxo-temp.de';
 $REX['ADDON']['prefixes'][$mypage] = array('art_', 'cat_', 'med_');
 $REX['ADDON']['metaTables'][$mypage] = array(
   'art_' => $REX['TABLE_PREFIX'] .'article',

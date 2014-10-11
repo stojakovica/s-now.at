@@ -3,7 +3,7 @@
 /**
  * Backend Search Addon
  *
- * @author markus[dot]staab[at]redaxo[dot]de Markus Staab
+ * @author markus[dot]staab[at]redaxo-temp[dot]de Markus Staab
  *
  * @package redaxo4
  * @version svn:$Id$
@@ -17,7 +17,7 @@ $REX['ADDON']['rxid'][$mypage] = '256';
 //$REX['ADDON']['perm'][$mypage] = 'be_search[]';
 $REX['ADDON']['version'][$mypage] = '1.3';
 $REX['ADDON']['author'][$mypage] = 'Markus Staab';
-$REX['ADDON']['supportpage'][$mypage] = 'forum.redaxo.de';
+$REX['ADDON']['supportpage'][$mypage] = 'forum.redaxo-temp.de';
 
 // Suchmodus
 // global => Es werden immer alle Kategorien durchsucht

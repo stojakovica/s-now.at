@@ -3,7 +3,7 @@
 /**
  * XForm
  *
- * @author jan.kristinus[at]redaxo[dot]de Jan Kristinus
+ * @author jan.kristinus[at]redaxo-temp[dot]de Jan Kristinus
  * @author <a href="http://www.yakamara.de">www.yakamara.de</a>
  *
  * @package redaxo4
@@ -129,7 +129,7 @@ if(!class_exists("rex_radio"))
 
     ################ optionen hinzufuegen
     /**
-     * Fügt eine Option hinzu
+     * Fï¿½gt eine Option hinzu
      */
     /*public*/ function addOption($name, $value, $attributes = array())
     {

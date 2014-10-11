@@ -13,7 +13,7 @@ $mypage = 'customizer';
 
 $REX['ADDON']['version'][$mypage] = '4.5';
 $REX['ADDON']['author'][$mypage] = 'Umsetzung: Jan Kristinus';
-$REX['ADDON']['supportpage'][$mypage] = 'www.redaxo.org/de/forum';
+$REX['ADDON']['supportpage'][$mypage] = 'www.redaxo-temp.org/de/forum';
 
 // --- DYN
 $REX['ADDON']['be_style']['plugin_customizer']['labelcolor'] = '#090';

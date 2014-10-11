@@ -3,7 +3,7 @@
 /**
  * MetaForm Addon
  *
- * @author markus[dot]staab[at]redaxo[dot]de Markus Staab
+ * @author markus[dot]staab[at]redaxo-temp[dot]de Markus Staab
  *
  *
  * @package redaxo4

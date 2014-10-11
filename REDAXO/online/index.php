@@ -32,7 +32,7 @@ unset($REX);
 $REX['REDAXO'] = false;
 
 // Wenn $REX[GG] = true; dann wird der
-// Content aus den redaxo/include/generated/
+// Content aus den redaxo-temp/include/generated/
 // genommen
 $REX['GG'] = true;
 
@@ -45,7 +45,7 @@ include_once $REX['INCLUDE_PATH'].'/addons.inc.php';
 
 if($REX['SETUP'])
 {
-  header('Location:redaxo/');
+  header('Location:redaxo-temp/');
   exit();
 }
 
@@ -54,14 +54,14 @@ $REX['ARTICLE']->setCLang($REX['CUR_CLANG']);
 
 if($REX['SETUP'])
 {
-  header('Location: redaxo/index.php');
+  header('Location: redaxo-temp/index.php');
   exit();
 }elseif ($REX["ARTICLE"]->setArticleId($REX['ARTICLE_ID']))
 {
   echo $REX["ARTICLE"]->getArticleTemplate();
 }else
 {
-  echo 'Kein Startartikel selektiert / No starting Article selected. Please click here to enter <a href="redaxo/index.php">redaxo</a>';
+  echo 'Kein Startartikel selektiert / No starting Article selected. Please click here to enter <a href="redaxo-temp/index.php">redaxo-temp</a>';
   $REX['STATS'] = 0;
 }
 

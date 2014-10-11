@@ -24,7 +24,7 @@ unset($REX);
 $REX['REDAXO'] = true;
 
 // Wenn $REX[GG] = true; dann wird der
-// Content aus den redaxo/include/generated/
+// Content aus den redaxo-temp/include/generated/
 // genommen
 
 $REX['GG'] = false;

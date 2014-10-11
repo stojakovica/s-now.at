@@ -731,7 +731,7 @@ class OOMedia
     global $REX;
 
     $ext = $this->getExtension();
-    $folder = $REX['HTDOCS_PATH'] .'redaxo/media/';
+    $folder = $REX['HTDOCS_PATH'] .'redaxo-temp/media/';
     $icon = $folder .'mime-'.$ext.'.gif';
 
     // Dateityp für den kein Icon vorhanden ist

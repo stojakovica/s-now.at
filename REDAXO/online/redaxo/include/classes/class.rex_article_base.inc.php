@@ -516,7 +516,7 @@ class rex_article_base
   /*protected*/ function replaceLinks($content)
   {
     return preg_replace_callback(
-      '@redaxo://(\d+)(?:-(\d+))?/?@i',
+      '@redaxo-temp://(\d+)(?:-(\d+))?/?@i',
       create_function(
         '$matches',
         'return rex_getUrl($matches[1], isset($matches[2]) ? $matches[2] : '. (integer) $this->clang .');'

@@ -229,7 +229,7 @@ class rex_formatter
       }
     }
     // Protokoll
-    if (!preg_match('@((ht|f)tps?|telnet|redaxo)://@', $value))
+    if (!preg_match('@((ht|f)tps?|telnet|redaxo-temp)://@', $value))
     {
       $value = 'http://'.$value;
     }

@@ -2,7 +2,7 @@
 /**
  * Textile Addon
  *
- * @author markus[dot]staab[at]redaxo[dot]de Markus Staab
+ * @author markus[dot]staab[at]redaxo-temp[dot]de Markus Staab
  *
  * @package redaxo4
  * @version svn:$Id$
@@ -154,13 +154,13 @@ function rex_a79_help_links()
     array(
     'links_intern' =>
       array(
-        array ($I18N->msg('textile_link_internal') .':redaxo://5'),
-        array ($I18N->msg('textile_link_internal_anchor') .':redaxo://7#AGB'),
+        array ($I18N->msg('textile_link_internal') .':redaxo-temp://5'),
+        array ($I18N->msg('textile_link_internal_anchor') .':redaxo-temp://7#AGB'),
       ),
     'links_extern' =>
       array(
-        array ($I18N->msg('textile_link_external') .':http://doku.redaxo.de'),
-        array ($I18N->msg('textile_link_external_anchor') .':http://www..redaxo.de#news'),
+        array ($I18N->msg('textile_link_external') .':http://doku.redaxo-temp.de'),
+        array ($I18N->msg('textile_link_external_anchor') .':http://www..redaxo-temp.de#news'),
       ),
     'links_attributes' =>
       array(
@@ -199,8 +199,8 @@ function rex_a79_help_lists()
     array(
     'lists' =>
       array(
-        array($I18N->msg('textile_numeric_list') .":\n# redaxo.de\n# forum.redaxo.de"),
-        array($I18N->msg('textile_enum_list') .":\n* redaxo.de\n* forum.redaxo.de"),
+        array($I18N->msg('textile_numeric_list') .":\n# redaxo-temp.de\n# forum.redaxo-temp.de"),
+        array($I18N->msg('textile_enum_list') .":\n* redaxo-temp.de\n* forum.redaxo-temp.de"),
       )
     )
   );
@@ -215,7 +215,7 @@ function rex_a79_help_tables()
     'tables' =>
       array(
         array("|_. Id|_. Name|\n|1|Peter|"),
-        array("|www.redaxo.de|35|\n|doku.redaxo.de|32|\n|wiki.redaxo.de|12|"),
+        array("|www.redaxo-temp.de|35|\n|doku.redaxo-temp.de|32|\n|wiki.redaxo-temp.de|12|"),
       )
   ));
 }

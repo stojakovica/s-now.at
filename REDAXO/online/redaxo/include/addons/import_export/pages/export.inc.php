@@ -183,7 +183,7 @@ else
 
   foreach ($folders as $file)
   {
-    if ($file == 'redaxo')
+    if ($file == 'redaxo-temp')
     {
       continue;
     }

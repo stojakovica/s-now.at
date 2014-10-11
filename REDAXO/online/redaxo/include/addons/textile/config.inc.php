@@ -3,7 +3,7 @@
 /**
  * Textile Addon
  *
- * @author markus[dot]staab[at]redaxo[dot]de Markus Staab
+ * @author markus[dot]staab[at]redaxo-temp[dot]de Markus Staab
  *
  * @package redaxo4
  * @version svn:$Id$
@@ -16,7 +16,7 @@ $REX['ADDON']['name'][$mypage] = 'Textile';
 $REX['ADDON']['perm'][$mypage] = 'textile[]';
 $REX['ADDON']['version'][$mypage] = '1.5';
 $REX['ADDON']['author'][$mypage] = "Markus Staab, Dean Allen www.textism.com, Steve (github.com/netcarver/textile)";
-$REX['ADDON']['supportpage'][$mypage] = 'forum.redaxo.de';
+$REX['ADDON']['supportpage'][$mypage] = 'forum.redaxo-temp.de';
 
 $REX['PERM'][] = 'textile[]';
 $REX['EXTPERM'][] = 'textile[help]';

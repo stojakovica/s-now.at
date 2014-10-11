@@ -8,7 +8,7 @@
  * @author <a href="http://www.yakamara.de">www.yakamara.de</a>
  *
  * @author Umsetzung
- * @author thomas[dot]blum[at]redaxo[dot]de Thomas Blum
+ * @author thomas[dot]blum[at]redaxo-temp[dot]de Thomas Blum
  * @author <a href="http://www.blumbeet.com">www.blumbeet.com</a>
  *
  * @package redaxo4

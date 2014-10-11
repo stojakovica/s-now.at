@@ -1,23 +1,23 @@
 $(document).ready(function() {
-    $('#fullpage').fullpage();
+    $('#fullpage').fullpage({
+        autoScrolling: false,
+        easing: 'easeOutQuart',
+        scrollingSpeed: 1000
+    });
 
-    setMargin();
-    if(!$('#container').hasClass('startseite')) {
-        $(window).resize(setContentHeight).trigger("resize");
-    }
-    setFooterHeight("47px");
-    setFooterWidth();
-    $('#container .columnWrapper .column .content').niceScroll();
-    $('.headerDescription').niceScroll();
+    $('.column .content').slimScroll({
+        height: calcContentHeight()
+    });
+    //$('.headerDescription').niceScroll();
     if(!$('#container').hasClass('startseite')) {
         $('#container .columnWrapper .column .content .block img').hover(fadeIn, fadeOut);
         $('.headerWrapper').click(toggleDescription);
     }
     $('#footer #navigationMain .navMain').click(getFooterContent);
-    $('#containerWrapper').click(resetFooter);
-    $('a.galleryBox').click(getGallery);
+    //$('#containerWrapper').click(resetFooter);
+    //$('a.galleryBox').click(getGallery);
     $('.close').click(initialDescriptionEffect);
-    setTimeout(showDescriptions, 100);
+    //setTimeout(showDescriptions, 100);
     setTimeout(initialDescriptionEffect, 2000);
 });
 
@@ -169,11 +169,6 @@ function setFooterHeight(height) {
     });
 }
 
-function setFooterWidth() {
-    var width = 1000 - ($(window).width() * 0.02);
-    $('#footerArticleContent').width(width);
-}
-
 function fadeIn() {
     var speed = 200;
     $(this).animate({
@@ -209,13 +204,17 @@ function setMargin() {
     $('#footer #navigationRight').css('margin-left', margin+'px');
 }
 
-function setContentHeight() {
-    if($('#container').width() > 1000) {
-        var margin = $('#container').width() * 0.02;
-        var contentHeight = $(window).height();
-        contentHeight -= margin;
-        contentHeight -= $('#container .columnWrapper .column .headerWrapper').height();
-        contentHeight -= $('#footerWrapper').height();
-        $('#container .columnWrapper .column .content').css('height', contentHeight+'px');
+function calcContentHeight() {
+    var contentHeight = 0;
+    var $column = $('.column');
+    var $content = $('.content');
+
+    if($(window).width() > 1000) {
+        contentHeight = $(window).height();
+        contentHeight -= parseInt($column.css('paddingTop'));
+        contentHeight -= parseInt($content.css('marginTop'));
+        contentHeight -= $('#footer').height();
     }
+
+    return contentHeight;
 }

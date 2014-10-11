@@ -78,7 +78,7 @@ if(OOAddon::isAvailable("rex_multiupload"))
  // setter function um fußnoten information auszugeben
  $upload->setFootnote(true);
  
- // setter function um redaxo-addon-markup mit auszugeben (boolean: true/false)
+ // setter function um redaxo-temp-addon-markup mit auszugeben (boolean: true/false)
  // Hinweis: Wird setMarkup() auf false gesetzt, wird setSyncCat & setFootnote 
  // automatisch auf false gesetzt. Um dennoch den Kategorie-Sync auszugeben,
  // bitte das Beispiel "Nackte Ausgabe" lesen.

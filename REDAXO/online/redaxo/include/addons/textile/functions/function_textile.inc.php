@@ -2,7 +2,7 @@
 /**
  * Textile Addon
  *
- * @author markus[dot]staab[at]redaxo[dot]de Markus Staab
+ * @author markus[dot]staab[at]redaxo-temp[dot]de Markus Staab
  *
  * @package redaxo4
  * @version svn:$Id$
@@ -23,7 +23,7 @@ function rex_a79_textile_instance($doctype='xhtml')
   if(!isset($instance[$doctype]))
   {
     $instance[$doctype] = new Textile($doctype);
-    $instance[$doctype]->unrestricted_url_schemes[] = 'redaxo';
+    $instance[$doctype]->unrestricted_url_schemes[] = 'redaxo-temp';
   }
 
   return $instance[$doctype];

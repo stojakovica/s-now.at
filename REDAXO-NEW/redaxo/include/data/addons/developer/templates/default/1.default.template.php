@@ -1,4 +1,4 @@
-<div id="containerWrapper" class="clearfix">
+<div class="containerWrapper clearfix">
     <div id="container" class="clearfix">
         <?php
         $cat = OOCategory::getCategoryById($this->getValue("category_id"));
@@ -17,17 +17,20 @@
                     <div class="descriptionWrapper">
                         <div class="description">
                             <div class="close">X</div>
-                            <?php
-                            echo $c->getDescription();
+                            <div class="descriptionContent">
+                                <?php
+                                echo $c->getDescription();
 
-                            foreach($catArticles as $catArt) {
-                                echo '<a href="#" class="galleryBox" data-previewImg="'.$catArt->getValue('art_gallerypreview').'" data-previewText="'.str_replace("\n", "%0A", $catArt->getValue('art_gallerypreviewtext')).'" data-galleryList="'.$catArt->getValue('art_gallerylist').'">'.$catArt->getName().'</a><br/>';
-                            }
-                            ?>
+                                foreach($catArticles as $catArt) {
+                                    echo '<a href="#" class="galleryBox" data-previewImg="'.$catArt->getValue('art_gallerypreview').'" data-previewText="'.str_replace("\n", "%0A", $catArt->getValue('art_gallerypreviewtext')).'" data-galleryList="'.$catArt->getValue('art_gallerylist').'">'.$catArt->getName().'</a><br/>';
+                                }
+                                ?>
+                            </div>
                         </div>
 
                         <div class="headline">
                             <?php echo $c->getName(); ?>
+                            <i class="fa fa-bars"></i>
                         </div>
                     </div>
                     <div class="content">

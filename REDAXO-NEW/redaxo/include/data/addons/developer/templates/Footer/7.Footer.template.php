@@ -12,9 +12,10 @@
                 $nav->setLevelDepth(1);
                 $nav->setIgnoreOfflines(true);
                 $nav->setHideWebsiteStartArticle(false);
-                $nav->setSelectedClass("current");
-                $nav->setActiveClass("current active");
                 $nav->setUlId("navigationMain", 0);
+                $nav->setLinkFromUserFunc(function($cat, $depth) {
+                    return '<a href="#" data-artId="'.$cat->getId().'">' . htmlspecialchars($cat->getName()) . '</a>';
+                });
                 echo $nav->getNavigationByCategory(5);
                 ?>
             </div>

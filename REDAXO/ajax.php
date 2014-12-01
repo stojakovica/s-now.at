@@ -4,9 +4,10 @@ header('Content-Type: text/html; charset=utf-8');
 if($_GET['artId'] != "") $id = $_GET['artId'];
 
 if ($_GET['getArticleData'] == 1) {
-    $result = "<br/><br/>";
     $article = new article($id);
+    $result = '<div class="container">';
     $result .= $article->getArticle(1);
+    $result .= '</div>';
     echo $result;
     exit;
 }
@@ -28,7 +29,7 @@ if ($_GET['getGallery'] == 1) {
     }
     $galleryList = '<div class="galleryBoxList">'.$imagesHtml.'</div>';
 
-    $html = '<div class="previewBox">'.$previewImg.$previewText.'</div><div class="galleryShowBox">'.$galleryImgBig.$galleryList.'</div>';
+    $html = '<div class="previewBox">'.$previewImg.'<div>'.$previewText.'</div></div><div class="galleryShowBox">'.$galleryImgBig.$galleryList.'</div>';
     echo $html;
     exit;
 }

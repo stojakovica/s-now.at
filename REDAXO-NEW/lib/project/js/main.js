@@ -29,6 +29,8 @@ $(document).ready(function() {
         doLogoBlinking = true;
         setLogoOpacity('0.5');
     });
+
+    $('#footerArticleContent').mCustomScrollbar();
 });
 
 function setLogoOpacity(opacity) {
@@ -148,6 +150,7 @@ function getFooterContent() {
         data: "getArticleData=1&artId="+$(this).attr('data-artId'),
         success: function(data){
             var footerHeight = $(window).height() * 0.7;
+            $('#footerArticleContent').mCustomScrollbar('destroy');
             $('#footerArticleContent').empty();
             $('#footerArticleContent').html(data);
             setFooterHeight(footerHeight+'px');

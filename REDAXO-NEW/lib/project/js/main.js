@@ -4,10 +4,14 @@ $(document).ready(function() {
     $('#fullpage').fullpage({
         autoScrolling: false,
         easing: 'easeOutQuart',
-        scrollingSpeed: 1000
+        scrollingSpeed: 1000,
+        resize : true
     });
 
     $('.column .content').height(calcContentHeight());
+    $(window).resize(function() {
+        $('.column .content').height(calcContentHeight());
+    });
     $('.column .content, .description, .footerArticleContentWrapper').mCustomScrollbar({
         scrollInertia: 100,
         autoHideScrollbar: true

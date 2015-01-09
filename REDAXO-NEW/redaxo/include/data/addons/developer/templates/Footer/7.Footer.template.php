@@ -3,7 +3,9 @@
 <div id="footer" class="container">
     <div class="row">
         <div class="col-xs-4">
-            <a href="#home"><img class="homeButton" src="<?php echo seo42::getImageManagerUrl("star_black.png", "footerLogo")?>" title="Home" alt="Home"/></a>
+            <div>
+                <a href="#home"><img class="homeButton" src="<?php echo seo42::getImageManagerUrl("star_black.png", "footerLogo")?>" title="Home" alt="Home"/></a>
+            </div>
         </div>
         <div class="col-xs-8">
             <div class="pull-right">

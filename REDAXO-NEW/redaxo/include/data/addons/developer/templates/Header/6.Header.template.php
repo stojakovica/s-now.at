@@ -34,6 +34,7 @@ $ajaxUrl = rex_getUrl(12);
     <link href="lib/bootstrap-3.2.0/css/bootstrap.min.css" rel="stylesheet">
     <link href="lib/slimbox2/css/slimbox2.css" rel="stylesheet">
     <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="lib/fullpage/jquery.fullPage.css" rel="stylesheet">
     <link href="lib/project/css/jquery.mCustomScrollbar.css" rel="stylesheet">
     <link rel="stylesheet" href="<?php echo seo42::getCombinedCSSFile("main.css", array("elements.less", "main.less")); ?>" type="text/css" media="screen,print" />
     <link rel="shortcut icon" href="<?php echo seo42::getImageFile("favicon.ico"); ?>" type="image/x-icon" />

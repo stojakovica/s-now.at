@@ -3,46 +3,16 @@
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>fullPage.js One Page Scroll Sites</title>
+	<title>Callback function - fullPage.js</title>
 	<meta name="author" content="Alvaro Trigo Lopez" />
-	<meta name="description" content="fullPage plugin by Alvaro Trigo. Create fullscreen pages fast and simple. One page scroll like iPhone website." />
-	<meta name="keywords"  content="fullpage,jquery,alvaro,trigo,plugin,fullscren,screen,full,iphone5,apple" />
+	<meta name="description" content="fullPage callback function." />
+	<meta name="keywords"  content="fullpage,jquery,demo,callbac,function,event" />
 	<meta name="Resource-type" content="Document" />
 
 
 	<link rel="stylesheet" type="text/css" href="../jquery.fullPage.css" />
 	<link rel="stylesheet" type="text/css" href="examples.css" />
 
-
-	<style>
-
-		/* Sections
-		 * --------------------------------------- */
-		#section0 img,
-		#section1 img{
-			margin: 20px 0 0 0;
-		}
-		#section2 img{
-			margin: 20px 0 0 52px;
-		}
-		#section3 img{
-			bottom: 0px;
-			position: absolute;
-			margin-left: -420px;
-		}
-		.intro p{
-			width: 50%;
-			margin: 0 auto;
-			font-size: 1.5em;
-		}
-		.twitter-share-button{
-			position: absolute;
-			z-index: 99;
-			right: 149px;
-			top: 9px;
-		}
-
-	</style>
 	<!--[if IE]>
 		<script type="text/javascript">
 			 var console = { log: function() {} };
@@ -60,11 +30,47 @@
 				sectionsColor: ['#1bbc9b', '#4BBFC3', '#7BAABE', 'whitesmoke', '#ccddff'],
 				anchors: ['firstPage', 'secondPage', '3rdPage', '4thpage', 'lastPage'],
 				menu: '#menu',
-				scrollingSpeed: 1000
+				afterLoad: function(anchorLink, index){
+
+					//section 2
+					if(index == 2){
+						//moving the image
+						$('#section1').find('img').delay(500).animate({
+							left: '0%'
+						}, 1500, 'easeOutExpo');
+
+						$('#section1').find('p').first().fadeIn(1800, function(){
+							$('#section1').find('p').last().fadeIn(1800);
+						});;
+
+					}
+
+					//section 3
+					if(anchorLink == '3rdPage'){
+						//moving the image
+						$('#section2').find('.intro').delay(500).animate({
+							left: '0%'
+						}, 1500, 'easeOutExpo');
+					}
+				}
 			});
 
 		});
 	</script>
+
+	<style>
+		#section1 img{
+			left: 130%;
+			position:relative;
+		}
+		#section1 p{
+			display:none;
+		}
+		#section2 .intro{
+			left: -130%;
+			position:relative;
+		}
+	</style>
 
 </head>
 <body>
@@ -94,69 +100,35 @@
   <option id="methods">Methods</option>
 </select>
 
+
 <ul id="menu">
 	<li data-menuanchor="firstPage"><a href="#firstPage">First slide</a></li>
 	<li data-menuanchor="secondPage"><a href="#secondPage">Second slide</a></li>
 	<li data-menuanchor="3rdPage"><a href="#3rdPage">Third slide</a></li>
-	<li data-menuanchor="4thpage"><a href="#4thpage">Fourth slide</a></li>
 </ul>
-
 
 <div id="fullpage">
 	<div class="section " id="section0">
 		<h1>fullPage.js</h1>
-		<p>Create Beautiful Fullscreen Scrolling Websites</p>
+		<p>Configure the easing jQuery UI effect!</p>
 		<img src="imgs/fullPage.png" alt="fullPage" />
 	</div>
 	<div class="section" id="section1">
-	    <div class="slide">
-			<div class="intro">
-				<h1>Create Sliders</h1>
-				<p>Not only vertical scrolling but also horizontal scrolling. With fullPage.js you will be able to add horizontal sliders in the most simple way ever.</p>
-				<img src="imgs/slider.png" alt="slider" />
-			</div>
-
-		</div>
-	    <div class="slide">
-			<div class="intro">
-				<img src="imgs/1.png" alt="simple" />
-				<h1>Simple</h1>
-				<p>Easy to use. Configurable and customizable.</p>
-			</div>
-		</div>
-	    <div class="slide">
-			<div class="intro">
-				<img src="imgs/2.png" alt="Cool" />
-				<h1>Cool</h1>
-				<p>It just looks cool. Impress everybody with a simple and modern web design!</p>
-			</div>
-		</div>
-	    <div class="slide">
-			<div class="intro">
-				<img src="imgs/3.png" alt="Compatible" />
-				<h1>Compatible</h1>
-				<p>Working in modern and old browsers too! IE 8 users don't have the fault of using that horrible browser! Lets give them a chance to see your site in a proper way!</p>
-			</div>
+		<div class="intro">
+			<img src="imgs/1.png" alt="Cool" />
+			<h1>easeOutExpo</h1>
+			<p>This example is working with `easeOutExpo` effect instead of the default `easeOutExpo`</p>
+			<p>You can see more about them <a href="http://jqueryui.com/resources/demos/effect/easing.html" target="_blank">here</a></p>
 		</div>
 	</div>
 	<div class="section" id="section2">
 		<div class="intro">
-			<h1>Example</h1>
-			<p>HTML markup example to define 4 sections.</p>
-			<img src="imgs/example2.png" alt="example" />
+			<h1>Cool uh?</h1>
+			<p>Choose the best easing effect for your site!</p>
 		</div>
-	</div>
-	<div class="section" id="section3">
-		<div class="intro">
-			<h1>Working On Tablets</h1>
-			<p>
-				Designed to fit to different screen sizes as well as tablet and mobile devices.
-				<br /><br /><br /><br /><br /><br />
-			</p>
-		</div>
-		<img src="imgs/tablets.png" alt="tablets" />
 	</div>
 </div>
+
 
 </body>
 </html>

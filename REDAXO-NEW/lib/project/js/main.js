@@ -1,11 +1,16 @@
 var doLogoBlinking = true;
 
 $(document).ready(function() {
-    $('#fullpage').fullpage({
+    var $fullPage = $('#fullpage');
+    $fullPage.fullpage({
         autoScrolling: false,
         easing: 'easeOutQuart',
         scrollingSpeed: 1000,
-        resize : true
+        resize : true,
+        verticalCentered: false
+    });
+    $('.block img').click(function () {
+        $.fn.fullpage.moveSlideLeft();
     });
 
     $('.column .content').height(calcContentHeight());

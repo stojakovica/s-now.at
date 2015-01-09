@@ -1,11 +1,16 @@
 REX_TEMPLATE[6]
 <div class="section" data-anchor="architektur">
-    <?php
-    $artikel1 = new rex_article;
-    $artikel1->setCLang($REX['CUR_CLANG']);
-    $artikel1->setArticleID(113);
-    echo $artikel1->getArticleTemplate();
-    ?>
+    <div class="slide" data-anchor="main">
+        <?php
+        $artikel1 = new rex_article;
+        $artikel1->setCLang($REX['CUR_CLANG']);
+        $artikel1->setArticleID(113);
+        echo $artikel1->getArticleTemplate();
+        ?>
+    </div>
+    <div class="slide" data-anchor="detail">
+        test
+    </div>
 </div>
 
 <div class="section active" data-anchor="home">

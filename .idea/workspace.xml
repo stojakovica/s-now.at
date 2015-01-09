@@ -2,7 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2f8a0f4-b1dd-4d8a-a0d1-d6c47f2c9f0f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/default/1.default.template.php" afterPath="$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/default/1.default.template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/startseite/3.startseite.template.php" afterPath="$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/startseite/3.startseite.template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/Header/6.Header.template.php" afterPath="$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/Header/6.Header.template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/README.md" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/apple.html" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/apple.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/backgrounds.html" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/backgrounds.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/bower.json" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/continuous.html" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/continuous.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/css3.html" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/css3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/demoPage.html" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/demoPage.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/easing.html" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/easing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/examples.css" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/examples.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/examples.js" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/examples.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/fixedHeaders.html" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/fixedHeaders.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/gradientBackgrounds.html" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/gradientBackgrounds.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/jquery.fullPage.css" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/jquery.fullPage.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/jquery.fullPage.js" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/jquery.fullPage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/jquery.fullPage.min.js" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/jquery.fullPage.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/looping.html" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/looping.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/project/js/main.js" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/project/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/navigationH.html" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/navigationH.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/navigationV.html" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/navigationV.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/noAnchor.html" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/noAnchor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/normalScroll.html" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/normalScroll.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/oneSection.html" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/oneSection.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/scrolling.html" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/scrolling.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/scrollingSpeed.html" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/examples/scrollingSpeed.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="s-now.at.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,21 +54,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/REDAXO-NEW/lib/project/js/main.js">
+      <file leaf-file-name="6.Header.template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/Header/6.Header.template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2125" vertical-offset="0" max-vertical-offset="4012">
-              <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/REDAXO-NEW/lib/project/css/main.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.627451" vertical-offset="3878" max-vertical-offset="7582">
-              <caret line="230" column="0" selection-start-line="230" selection-start-column="0" selection-end-line="230" selection-end-column="0" />
+            <state vertical-scroll-proportion="-8.592592" vertical-offset="216" max-vertical-offset="1139">
+              <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -50,18 +67,38 @@
       <file leaf-file-name="1.default.template.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/default/1.default.template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="3.8076923" vertical-offset="116" max-vertical-offset="1037">
-              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1003">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="7.Footer.template.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/Footer/7.Footer.template.php">
+      <file leaf-file-name="3.startseite.template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/startseite/3.startseite.template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="935">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state vertical-scroll-proportion="-24.846153" vertical-offset="0" max-vertical-offset="748">
+              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/REDAXO-NEW/lib/project/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.053125" vertical-offset="0" max-vertical-offset="4097">
+              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.fullPage.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/jquery.fullPage.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="563" max-vertical-offset="3196">
+              <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -86,12 +123,13 @@
         <option value="$USER_HOME$/Downloads/snow.sql" />
         <option value="$PROJECT_DIR$/REDAXO-NEW/redaxo/include/master.inc.php" />
         <option value="$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/1 Spalte, Text zentriert/5.1 Spalte, Text zentriert.template.php" />
-        <option value="$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/startseite/3.startseite.template.php" />
         <option value="$PROJECT_DIR$/REDAXO/ajax.php" />
-        <option value="$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/Header/6.Header.template.php" />
-        <option value="$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/default/1.default.template.php" />
         <option value="$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/Footer/7.Footer.template.php" />
         <option value="$PROJECT_DIR$/REDAXO-NEW/lib/project/css/main.less" />
+        <option value="$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/default/1.default.template.php" />
+        <option value="$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/startseite/3.startseite.template.php" />
+        <option value="$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/Header/6.Header.template.php" />
+        <option value="$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/jquery.fullPage.css" />
         <option value="$PROJECT_DIR$/REDAXO-NEW/lib/project/js/main.js" />
       </list>
     </option>
@@ -389,6 +427,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="startseite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="s-now.at" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="s-now.at" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REDAXO-NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redaxo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="addons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="developer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Header" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -569,6 +649,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="s-now.at" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="s-now.at" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REDAXO-NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fullpage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -586,11 +688,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wwwroot\s-now.at\REDAXO-NEW\lib\fullpage" />
       <recent name="C:\wwwroot\s-now.at\REDAXO-NEW\lib\project\js" />
       <recent name="C:\wwwroot\s-now.at\REDAXO-NEW\lib\project\css" />
       <recent name="C:\wwwroot\s-now.at\REDAXO-NEW\lib" />
       <recent name="C:\wwwroot\s-now.at\REDAXO-NEW\lib\project\images" />
-      <recent name="C:\wwwroot\s-now.at\REDAXO-NEW" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wwwroot\s-now.at\REDAXO-NEW" />
@@ -796,13 +898,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/startseite/3.startseite.template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6006424" vertical-offset="0" max-vertical-offset="934">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/REDAXO/ajax.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.03640257" vertical-offset="0" max-vertical-offset="934">
@@ -814,14 +909,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33645833" vertical-offset="0" max-vertical-offset="3791">
           <caret line="19" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/Header/6.Header.template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16381156" vertical-offset="34" max-vertical-offset="1122">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -844,17 +931,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/default/1.default.template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.8076923" vertical-offset="116" max-vertical-offset="1037">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/Footer/7.Footer.template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="935">
+        <state vertical-scroll-proportion="0.018201284" vertical-offset="0" max-vertical-offset="935">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
@@ -862,16 +941,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/REDAXO-NEW/lib/project/css/main.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.627451" vertical-offset="3878" max-vertical-offset="7582">
+        <state vertical-scroll-proportion="0.03520352" vertical-offset="3878" max-vertical-offset="7582">
           <caret line="230" column="0" selection-start-line="230" selection-start-column="0" selection-end-line="230" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/jquery.fullPage.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="947">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/Header/6.Header.template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.592592" vertical-offset="216" max-vertical-offset="1139">
+          <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/default/1.default.template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1003">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/startseite/3.startseite.template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-24.846153" vertical-offset="0" max-vertical-offset="748">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/REDAXO-NEW/lib/fullpage/jquery.fullPage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="563" max-vertical-offset="3196">
+          <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/REDAXO-NEW/lib/project/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2125" vertical-offset="0" max-vertical-offset="4012">
-          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+        <state vertical-scroll-proportion="0.053125" vertical-offset="0" max-vertical-offset="4097">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
           <folding />
         </state>
       </provider>

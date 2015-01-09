@@ -39,9 +39,7 @@
                             $img = array_shift(explode(',', $catArt->getValue('art_gallerylist')));
                             ?>
                             <div class="block">
-                                <?php echo '<a href="#" class="galleryBox" data-previewImg="'.$catArt->getValue('art_gallerypreview').'" data-previewText="'.str_replace("\n", "%0A", $catArt->getValue('art_gallerypreviewtext')).'" data-galleryList="'.$catArt->getValue('art_gallerylist').'">'; ?>
                                 <img src="<?php echo seo42::getImageManagerFile($img, "imgBlock"); ?>" />
-                                <?php echo '</a>'; ?>
                             </div>
                         <?php
                         }

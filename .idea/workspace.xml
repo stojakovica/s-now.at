@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2f8a0f4-b1dd-4d8a-a0d1-d6c47f2c9f0f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/project/js/main.js" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/project/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REDAXO-NEW/lib/project/css/main.less" afterPath="$PROJECT_DIR$/REDAXO-NEW/lib/project/css/main.less" />
     </list>
     <ignored path="s-now.at.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,21 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.less" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.less" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/REDAXO-NEW/lib/project/css/main.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.49019608" vertical-offset="6248" max-vertical-offset="7225">
-              <caret line="369" column="43" selection-start-line="369" selection-start-column="43" selection-end-line="369" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.77557755" vertical-offset="6316" max-vertical-offset="7259">
+              <caret line="413" column="21" selection-start-line="413" selection-start-column="21" selection-end-line="413" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/REDAXO-NEW/lib/project/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.584375" vertical-offset="0" max-vertical-offset="4080">
-              <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="3120" max-vertical-offset="4080">
+              <caret line="234" column="1" selection-start-line="234" selection-start-column="1" selection-end-line="234" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -80,9 +80,9 @@
         <option value="$PROJECT_DIR$/REDAXO/ajax.php" />
         <option value="$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/Header/6.Header.template.php" />
         <option value="$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/default/1.default.template.php" />
-        <option value="$PROJECT_DIR$/REDAXO-NEW/lib/project/css/main.less" />
         <option value="$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/Footer/7.Footer.template.php" />
         <option value="$PROJECT_DIR$/REDAXO-NEW/lib/project/js/main.js" />
+        <option value="$PROJECT_DIR$/REDAXO-NEW/lib/project/css/main.less" />
       </list>
     </option>
   </component>
@@ -837,14 +837,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/REDAXO-NEW/lib/project/css/main.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.49019608" vertical-offset="6248" max-vertical-offset="7225">
-          <caret line="369" column="43" selection-start-line="369" selection-start-column="43" selection-end-line="369" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/REDAXO-NEW/redaxo/include/data/addons/developer/templates/Footer/7.Footer.template.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-22.884615" vertical-offset="0" max-vertical-offset="901">
@@ -855,8 +847,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/REDAXO-NEW/lib/project/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.584375" vertical-offset="0" max-vertical-offset="4080">
-          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="3120" max-vertical-offset="4080">
+          <caret line="234" column="1" selection-start-line="234" selection-start-column="1" selection-end-line="234" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/REDAXO-NEW/lib/project/css/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.77557755" vertical-offset="6316" max-vertical-offset="7259">
+          <caret line="413" column="21" selection-start-line="413" selection-start-column="21" selection-end-line="413" selection-end-column="21" />
           <folding />
         </state>
       </provider>

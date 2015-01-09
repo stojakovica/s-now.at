@@ -133,6 +133,10 @@ html, body {
         height: 0;
         overflow: hidden;
 
+        .mCSB_scrollTools .mCSB_dragger {
+            background: @grey;
+        }
+
         .descriptionContent {
             padding-top: 55px;
             padding-right: 15px;
@@ -241,16 +245,23 @@ html, body {
     }
 }
 
-#footerArticleContent {
+.footerArticleContentWrapper {
     height: 0px;
+    overflow: hidden;
+
+    .mCSB_scrollTools .mCSB_dragger {
+        background: @grey;
+    }
 }
 
-#footerArticleContent a {
-    color: #bbb;
-}
+.footerArticleContent {
+    a {
+        color: #bbb;
 
-#footerArticleContent a:hover {
-    color: #333;
+        &:hover {
+            color: #333;
+        }
+    }
 }
 
 .team {
@@ -409,9 +420,13 @@ html, body {
 }
 
 .mCSB_scrollTools, .mCSB_14_scrollbar_vertical, .mCSB_scrollTools .mCSB_draggerRail, .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
-    width: 5px;
+    width: 7px;
     -webkit-border-radius: 0;
     border-radius: 0;
+}
+
+.mCSB_scrollTools .mCSB_draggerRail {
+    background: none;
 }
 
 .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
@@ -419,4 +434,8 @@ html, body {
     border: 1px solid @white;
     -webkit-border-radius: 0;
     border-radius: 0;
+}
+
+.section {
+    overflow: hidden;
 }

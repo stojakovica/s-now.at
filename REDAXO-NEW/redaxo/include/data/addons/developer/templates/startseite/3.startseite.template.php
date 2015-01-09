@@ -8,8 +8,7 @@ REX_TEMPLATE[6]
         echo $artikel1->getArticleTemplate();
         ?>
     </div>
-    <div class="slide" data-anchor="detail">
-        test
+    <div class="slide detail">
     </div>
 </div>
 
@@ -27,12 +26,16 @@ REX_TEMPLATE[6]
 </div>
 
 <div class="section" data-anchor="fotografie">
-    <?php
-    $artikel2 = new rex_article;
-    $artikel2->setCLang($REX['CUR_CLANG']);
-    $artikel2->setArticleID(20);
-    echo $artikel2->getArticleTemplate();
-    ?>
+    <div class="slide" data-anchor="main">
+        <?php
+        $artikel2 = new rex_article;
+        $artikel2->setCLang($REX['CUR_CLANG']);
+        $artikel2->setArticleID(20);
+        echo $artikel2->getArticleTemplate();
+        ?>
+    </div>
+    <div class="slide detail">
+    </div>
 </div>
 
 REX_TEMPLATE[7]

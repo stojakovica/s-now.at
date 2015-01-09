@@ -22,7 +22,7 @@
                                 echo $c->getDescription();
 
                                 foreach($catArticles as $catArt) {
-                                    echo '<a href="#" class="galleryBox" data-previewImg="'.$catArt->getValue('art_gallerypreview').'" data-previewText="'.str_replace("\n", "%0A", $catArt->getValue('art_gallerypreviewtext')).'" data-galleryList="'.$catArt->getValue('art_gallerylist').'">'.$catArt->getName().'</a><br/>';
+                                    echo '<a href="#" class="galleryBox" data-artId="'.$catArt->getId().'">'.$catArt->getName().'</a><br/>';
                                 }
                                 ?>
                             </div>
@@ -36,10 +36,11 @@
                     <div class="content">
                         <?php
                         foreach($catArticles as $catArt) {
+                            $id = $catArt->getId();
                             $img = array_shift(explode(',', $catArt->getValue('art_gallerylist')));
                             ?>
                             <div class="block">
-                                <img src="<?php echo seo42::getImageManagerFile($img, "imgBlock"); ?>" />
+                                <img src="<?php echo seo42::getImageManagerFile($img, "imgBlock"); ?>" data-artId="<?php echo $id; ?> "/>
                             </div>
                         <?php
                         }

@@ -35,6 +35,7 @@ $ajaxUrl = rex_getUrl(12);
     <link href="lib/slimbox2/css/slimbox2.css" rel="stylesheet">
     <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="lib/fullpage/jquery.fullPage.css" rel="stylesheet">
+    <link href="http://nicinabox.com/superslides/dist/stylesheets/superslides.css" rel="stylesheet">
     <link href="lib/project/css/jquery.mCustomScrollbar.css" rel="stylesheet">
     <link rel="stylesheet" href="<?php echo seo42::getCombinedCSSFile("main.css", array("elements.less", "main.less")); ?>" type="text/css" media="screen,print" />
     <link rel="shortcut icon" href="<?php echo seo42::getImageFile("favicon.ico"); ?>" type="image/x-icon" />
@@ -53,6 +54,7 @@ $ajaxUrl = rex_getUrl(12);
 <!--    <script type="text/javascript" src="lib/fullpage/vendors/jquery.slimscroll.min.js"></script>-->
     <script type="text/javascript" src="lib/fullpage/jquery.fullPage.min.js"></script>
     <script type="text/javascript" src="<?php echo seo42::getJSFile("jquery.mCustomScrollbar.js"); ?>"></script>
+    <script type="text/javascript" src="http://nicinabox.com/superslides/dist/jquery.superslides.js"></script>
     <script type="text/javascript" src="<?php echo seo42::getJSFile("main.js"); ?>"></script>
     <script type="text/javascript">
         var ajaxUrl = "<?php echo $ajaxUrl; ?>";

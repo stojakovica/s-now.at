@@ -95,6 +95,12 @@ html, body {
     height: 100%;
 }
 
+.container {
+    p {
+        text-align: justify;
+    }
+}
+
 .column {
     position: relative;
     height: 100%;
@@ -176,6 +182,7 @@ html, body {
             }
 
             img {
+                cursor: pointer;
                 width: 100%;
                 filter: saturate(20%);
                 -webkit-filter: saturate(20%);
@@ -265,7 +272,6 @@ html, body {
 }
 
 .team {
-    width: 390px;
     margin: 0 auto;
 }
 
@@ -438,4 +444,69 @@ html, body {
 
 .section {
     overflow: hidden;
+}
+
+.detailContent {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+    .mCSB_scrollTools .mCSB_dragger {
+        background: @grey;
+    }
+
+    img {
+        max-width: 100%;
+        max-height: 100%;
+    }
+}
+
+.detailTopBar {
+    height: 47px;
+}
+
+#slides {
+
+    .close {
+        position: absolute;
+        top: 10px;
+        right: 15px;
+        font-size: 28px;
+        cursor: pointer;
+        z-index: 100;
+    }
+}
+
+.slides-pagination {
+    bottom: 70px;
+}
+
+.controlSuperslides {
+    position: absolute;
+    z-index: 4;
+    top: 50%;
+    cursor: pointer;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    margin-top: -38px;
+}
+
+.prevSuperSlides {
+    left: 15px;
+    width: 0;
+    border-width: 38.5px 34px 38.5px 0;
+    border-color: transparent @greyLight transparent transparent;
+}
+.nextSuperSlides {
+    right: 15px;
+    border-width: 38.5px 0 38.5px 34px;
+    border-color: transparent transparent transparent @greyLight;
+}
+
+.fp-controlArrow.fp-prev {
+    left: 15px;
+    width: 0;
+    border-width: 38.5px 34px 38.5px 0;
+    border-color: transparent @greyLight transparent transparent;
 }

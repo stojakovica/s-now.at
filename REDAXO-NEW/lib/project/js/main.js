@@ -38,10 +38,10 @@ $(document).ready(function() {
         setLogoOpacity('0.5');
     });
 
-    $('#navigationMain a').click(function() {
-        $('#navigationMain a').removeClass('active');
-        $(this).addClass('active');
-    });
+    /* center fotografie detail content */
+    if($('.fotografie').length > 0) {
+        $(window).resize(centerDetailContent);
+    }
 });
 
 function setLogoOpacity(opacity) {
@@ -108,21 +108,28 @@ function getHeightValue() {
 }
 
 function getFooterContent() {
-    $('#containerOverlay').show();
-    $.ajax({
-        type: "GET",
-        url: ajaxUrl,
-        data: "getArticleData=1&artId="+$(this).attr('data-artId'),
-        success: function(data){
-            var footerHeight = $(window).height() * 0.7;
-            $('.footerArticleContent').html(data);
-            setFooterHeight(footerHeight+'px');
-        }
-    });
+    if($(this).hasClass('active')) {
+        resetFooter();
+    }
+    else {
+        $(this).addClass('active');
+        $('#containerOverlay').show();
+        $.ajax({
+            type: "GET",
+            url: ajaxUrl,
+            data: "getArticleData=1&artId="+$(this).attr('data-artId'),
+            success: function(data){
+                var footerHeight = $(window).height() * 0.7;
+                $('.footerArticleContent').html(data);
+                setFooterHeight(footerHeight+'px');
+            }
+        });
+    }
     return false;
 }
 
 function resetFooter() {
+    $('#navigationMain a').removeClass('active');
     $('.footerArticleContent').html("");
     setFooterHeight("47px");
     $('#containerOverlay').hide();
@@ -199,10 +206,14 @@ function getDetail() {
                 $('#slides').remove();
             }
             $section.find('.detail').html(data);
-
             initSlides();
 
             $.fn.fullpage.moveSlideRight();
+
+            $('.fotografie').load(function() {
+                centerDetailContent();
+                $(window).resize(centerDetailContent);
+            });
         }
     });
 
@@ -225,4 +236,19 @@ function initSlides() {
     $('#slides .close').click(function() {
         $.fn.fullpage.moveSlideLeft();
     });
+}
+
+function centerDetailContent() {
+    var $detailContentContainer = $('.detailContent');
+    var $detailContent = $('.fotografie .container');
+    var paddingTop = 0;
+
+    console.log($detailContentContainer.height());
+    console.log($detailContent.height());
+    if($detailContentContainer.height() > $detailContent.height()) {
+        paddingTop = $detailContentContainer.height()/2 - $detailContent.height()/2;
+        paddingTop-= 50;
+    }
+
+    $detailContent.css('padding-top', paddingTop+'px');
 }

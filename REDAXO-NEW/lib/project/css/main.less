@@ -2,6 +2,7 @@
 
 @white: #fff;
 @blackLight: #333;
+@black: #000;
 @grey: #666;
 @greyLight: #ccc;
 
@@ -73,6 +74,7 @@ html, body {
             border-right: 2px solid @grey;
             padding-right: 30px;
             margin-right: 30px;
+            font-weight: bold;
 
             &:last-child {
                 border-right: none;
@@ -249,6 +251,12 @@ html, body {
         font-size: 16px;
         cursor: pointer;
         color: @blackLight;
+    }
+
+    > li a.active, > li a:hover {
+        color: @black;
+        font-weight: normal;
+        text-decoration: underline;
     }
 }
 
@@ -478,7 +486,20 @@ html, body {
 }
 
 .slides-pagination {
-    bottom: 70px;
+    bottom: auto;
+    top: 15px;
+    left: 15px;
+    width: auto;
+
+    a {
+        border-radius: 0;
+        border: none;
+        background: @greyLight;
+
+        &.current {
+            background: @grey;
+        }
+    }
 }
 
 .controlSuperslides {

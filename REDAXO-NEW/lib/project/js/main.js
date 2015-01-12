@@ -37,6 +37,11 @@ $(document).ready(function() {
         doLogoBlinking = true;
         setLogoOpacity('0.5');
     });
+
+    $('#navigationMain a').click(function() {
+        $('#navigationMain a').removeClass('active');
+        $(this).addClass('active');
+    });
 });
 
 function setLogoOpacity(opacity) {

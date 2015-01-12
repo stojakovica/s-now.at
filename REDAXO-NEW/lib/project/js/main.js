@@ -173,17 +173,15 @@ function calcContentHeight() {
     var $column = $('.column');
     var $content = $('.content');
 
-    if($(window).width() > 1000) {
-        contentHeight = $(window).height();
-        if($('.detailContent').length < 1) {
-            contentHeight -= parseInt($column.css('paddingTop'));
-            contentHeight -= parseInt($content.css('marginTop'));
-        }
-        else {
-            contentHeight -= $('#footer').height();
-        }
+    contentHeight = $(window).height();
+    if($('.detailContent').length < 1) {
+        contentHeight -= parseInt($column.css('paddingTop'));
+        contentHeight -= parseInt($content.css('marginTop'));
+    }
+    else {
         contentHeight -= $('#footer').height();
     }
+    contentHeight -= $('#footer').height();
 
     return contentHeight;
 }

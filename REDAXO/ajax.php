@@ -24,6 +24,11 @@ if ($_GET['getArticleData'] == 1) {
 
 if ($_GET['getDetail'] == 1) {
     $article = OOArticle::getArticleById($id);
+    $isFotografie = false;
+    if($article->getParent() && $article->getParent()->getParent()) {
+        $isFotografie = $article->getParent()->getParent()->getId() == 20;
+    }
+    $name = $article->getName();
     $text = $article->getValue("art_gallerypreviewtext");
     $images = array_filter(explode(',', $article->getValue("art_gallerylist")));
 
@@ -34,9 +39,14 @@ if ($_GET['getDetail'] == 1) {
         $result .= '<div class="detailContentWrapper">';
         $result .= '<div class="detailTopBar"></div>';
         $result .= '<div class="detailContent">';
-        $result .= '<div class="container">';
-        $result .= convertTextile($text);
-        $result .= '</div>';
+        if($isFotografie) {
+            $result .= '<div class="centerContainer"><div class="centerContent"><span>'. $name .'</span></div></div>';
+        }
+        else {
+            $result .= '<div class="container">';
+            $result .= convertTextile($text);
+            $result .= '</div>';
+        }
         $result .= '</div>';
         $result .= '</div>';
         $result .= '</li>';

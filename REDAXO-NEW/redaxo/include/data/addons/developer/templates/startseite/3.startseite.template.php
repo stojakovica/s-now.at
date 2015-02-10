@@ -22,7 +22,7 @@ REX_TEMPLATE[6]
                 $z++;
                 echo '<a class="link" href="#'.strtolower($c->getName()).'">'.$c->getName().'</a>';
                 if($z == 1) {
-                    echo '<img src="'.seo42::getMediaFile('star_black_60.png').'" />';
+                    echo '<img src="'.seo42::getImageFile('star_black_light.png').'" />';
                 }
             }
             ?>

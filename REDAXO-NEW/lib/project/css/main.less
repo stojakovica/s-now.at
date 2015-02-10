@@ -65,13 +65,16 @@ html, body {
         text-transform: uppercase;
         color: @grey;
 
+        img {
+            margin: 0 115px;
+        }
+
         a {
             font-size: 36px;
             text-transform: uppercase;
             color: @grey;
             letter-spacing: 2px;
             font-weight: bold;
-            margin: 0 50px;
 
             &:hover {
                 font-size: 36px;
@@ -493,9 +496,11 @@ html, body {
         border-radius: 0;
         border: none;
         background: @greyLight;
+        color: @greyLight;
 
         &.current {
             background: @grey;
+            color: @grey;
         }
     }
 }
@@ -528,4 +533,21 @@ html, body {
     width: 0;
     border-width: 38.5px 34px 38.5px 0;
     border-color: transparent @greyLight transparent transparent;
+}
+
+.centerContainer {
+    display: table;
+    height: 100%;
+    width: 100%;
+
+    .centerContent {
+        display: table-cell;
+        vertical-align: middle;
+        text-align: center;
+        padding-bottom: 70px;
+
+        span {
+            font-size: 30px;
+        }
+    }
 }

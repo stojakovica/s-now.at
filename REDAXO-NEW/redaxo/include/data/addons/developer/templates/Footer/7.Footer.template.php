@@ -30,6 +30,7 @@
 </div>
 
 <script type="text/javascript">
+    document.body.addEventListener('touchmove', function(e){ e.preventDefault(); });
 
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-46862164-1']);

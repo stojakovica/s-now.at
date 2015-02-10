@@ -37,7 +37,14 @@ $(document).ready(function() {
         doLogoBlinking = true;
         setLogoOpacity('0.5');
     });
+
+    $('.homeButton').click(resetAll);
 });
+
+function resetAll() {
+    resetFooter();
+    resetDetailSlide();
+}
 
 function setLogoOpacity(opacity) {
     if(doLogoBlinking) {
@@ -200,6 +207,7 @@ function getDetail() {
             if($('#slides').length > 0) {
                 $('#slides').remove();
             }
+            resetDetailSlide();
             $section.find('.detail').html(data);
             initSlides();
 
@@ -227,5 +235,10 @@ function initSlides() {
 
     $('#slides .close').click(function() {
         $.fn.fullpage.moveSlideLeft();
+        resetDetailSlide();
     });
+}
+
+function resetDetailSlide() {
+    $('.slide.detail').empty();
 }

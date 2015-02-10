@@ -3,10 +3,10 @@
 <div id="containerOverlay"></div>
 <div id="footer" class="container">
     <div class="row">
-        <div class="col-xs-4">
+        <div class="col-xs-1">
             <a href="#home"><img class="homeButton" src="<?php echo seo42::getImageManagerUrl("star_black.png", "footerLogo")?>" title="Home" alt="Home"/></a>
         </div>
-        <div class="col-xs-8">
+        <div class="col-xs-11">
             <div class="clearfix">
                 <div class="pull-right">
                     <?php

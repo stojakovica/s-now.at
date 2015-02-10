@@ -1,4 +1,7 @@
 <?php
+include 'lib/project/classes/mobile_detect.php';
+$detect = new Mobile_Detect();
+
 $ssa = OOArticle::getSiteStartArticle();
 $curArticle = OOArticle::getArticleById($this->article_id);
 
@@ -19,7 +22,6 @@ function getHierarchicalVar($key, $article, $ssa) {
 
     return $var;
 }
-
 $ajaxUrl = rex_getUrl(12);
 ?>
 <!DOCTYPE html>
@@ -38,6 +40,9 @@ $ajaxUrl = rex_getUrl(12);
     <link href="http://nicinabox.com/superslides/dist/stylesheets/superslides.css" rel="stylesheet">
     <link href="lib/project/css/jquery.mCustomScrollbar.css" rel="stylesheet">
     <link rel="stylesheet" href="<?php echo seo42::getCombinedCSSFile("main.css", array("elements.less", "main.less")); ?>" type="text/css" media="screen,print" />
+    <?php if($detect->isMobile()) { ?>
+        <link href="lib/project/css/handheld.css" rel="stylesheet">
+    <?php } ?>
     <link rel="shortcut icon" href="<?php echo seo42::getImageFile("favicon.ico"); ?>" type="image/x-icon" />
     <link rel="canonical" href="<?php echo seo42::getCanonicalUrl(); ?>" />
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>

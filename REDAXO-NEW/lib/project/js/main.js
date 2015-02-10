@@ -14,9 +14,6 @@ $(document).ready(function() {
     $('.block img, .galleryBox').click(getDetail);
 
     $('.column .content').height(calcContentHeight());
-    $(window).resize(function() {
-        $('.column .content').height(calcContentHeight());
-    });
     $('.column .content, .description, .footerArticleContentWrapper').mCustomScrollbar({
         scrollInertia: 100,
         autoHideScrollbar: true
@@ -39,11 +36,18 @@ $(document).ready(function() {
     });
 
     $('.homeButton').click(resetAll);
+
+    $(window).resize(function() {
+        resetFooterFast();
+        resetDescriptions();
+        $('.column .content').height(calcContentHeight());
+    });
 });
 
 function resetAll() {
     resetFooter();
     resetDetailSlide();
+    resetDescriptions();
 }
 
 function setLogoOpacity(opacity) {
@@ -89,12 +93,10 @@ function hideDescription(el) {
     }
 }
 
-function setHeader() {
-    var top = getTopValue();
-    var height = getHeightValue();
-    $('.headerDescription').height(height);
-    $('.headerDescription').css('top', top+'px');
-    $('.headerWrapper').css('top', '-59px');
+function resetDescriptions() {
+    var els = $('.column .description');
+    var height = 0;
+    els.height(height);
 }
 
 function getTopValue() {
@@ -114,6 +116,7 @@ function getFooterContent() {
         resetFooter();
     }
     else {
+        $('#navigationMain a').removeClass('active');
         $(this).addClass('active');
         $('#containerOverlay').show();
         $.ajax({
@@ -133,7 +136,24 @@ function getFooterContent() {
 function resetFooter() {
     $('#navigationMain a').removeClass('active');
     $('.footerArticleContent').html("");
-    setFooterHeight("47px");
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+        setFooterHeight("65px")
+    }
+    else {
+        setFooterHeight("47px")
+    }
+    $('#containerOverlay').hide();
+}
+
+function resetFooterFast() {
+    $('#navigationMain a').removeClass('active');
+    $('.footerArticleContent').html("");
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+        $('#footer').height(65);
+    }
+    else {
+        $('#footer').height(47);
+    }
     $('#containerOverlay').hide();
 }
 

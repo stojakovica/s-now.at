@@ -30,7 +30,14 @@
 </div>
 
 <script type="text/javascript">
-    document.body.addEventListener('touchmove', function(e){ e.preventDefault(); });
+    document.body.addEventListener('touchmove', function(e){
+        e.preventDefault();
+        $('.column .content').height(calcContentHeight());
+        if($('.detailContent').length > 0) {
+            $('.detailContent').height(calcContentHeight());
+        }
+        $.fn.fullpage.reBuild();
+    });
 
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-46862164-1']);

@@ -3,12 +3,13 @@ var doLogoBlinking = true;
 $(document).ready(function() {
     var $fullPage = $('#fullpage');
     $fullPage.fullpage({
-        autoScrolling: false,
+        autoScrolling: true,
         easing: 'easeOutQuart',
         scrollingSpeed: 500,
         resize : true,
         verticalCentered: false,
-        slidesNavigation: false
+        slidesNavigation: false,
+        responsive: 0
     });
     $('.fp-controlArrow').hide();
     $('.block img, .galleryBox').click(getDetail);

@@ -1,7 +1,0 @@
-<?php
-
-// ADDON IDENTIFIER AUS GET PARAMS
-////////////////////////////////////////////////////////////////////////////////
-$myself = 'rex_multiupload';
-
-$REX['ADDON']['install'][$myself] = 0;

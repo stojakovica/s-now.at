@@ -9,7 +9,8 @@ $(document).ready(function() {
         resize : true,
         verticalCentered: false,
         slidesNavigation: false,
-        responsive: 0
+        responsive: 0,
+        normalScrollElements: '.column .content'
     });
     $('.fp-controlArrow').hide();
     $('.block img, .galleryBox').click(getDetail);

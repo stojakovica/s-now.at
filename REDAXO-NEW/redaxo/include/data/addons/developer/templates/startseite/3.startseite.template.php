@@ -16,15 +16,18 @@ REX_TEMPLATE[6]
     <div class="startseite">
         <div class="content text-center">
             <?php
-            $categories = OOCategory::getRootCategories(true);
-            $z = 0;
-            foreach ($categories as $c) {
-                $z++;
-                echo '<a class="link" href="#'.strtolower($c->getName()).'">'.$c->getName().'</a>';
-                if($z == 1) {
-                    echo '<img src="'.seo42::getImageFile('star_black_light.png').'" />';
-                }
-            }
+            $architekturImage = OOMedia::getMediaByFileName('architektur.png');
+            $fotografieImage = OOMedia::getMediaByFileName('fotografie.png');
+
+            echo '<img src="'.seo42::getImageFile('logo.png').'" class="logo" />';
+            echo '<br>';
+            echo '<a class="link" href="#'.strtolower("architektur").'">';
+            echo '<img src="'.seo42::getMediaFile('architektur.png').'" title="'.$architekturImage->getTitle().'" alt="'.$architekturImage->getTitle().'" />';
+            echo '</a>';
+            echo '<img src="'.seo42::getImageFile('slash.png').'" class="slash" />';
+            echo '<a class="link" href="#'.strtolower("fotografie").'">';
+            echo '<img src="'.seo42::getMediaFile('fotografie.png').'" title="'.$fotografieImage->getTitle().'" alt="'.$fotografieImage->getTitle().'" />';
+            echo '</a>';
             ?>
         </div>
     </div>

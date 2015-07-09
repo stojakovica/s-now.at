@@ -10,7 +10,7 @@ $(document).ready(function() {
         verticalCentered: false,
         slidesNavigation: false,
         responsive: 0,
-        normalScrollElements: '.column .content'
+        normalScrollElements: '.containerWrapper'
     });
     $('.fp-controlArrow').hide();
     $('.block img, .galleryBox').click(getDetail);
